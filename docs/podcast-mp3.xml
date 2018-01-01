@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+<channel>
+    <title>Seen/Saw Podcast</title>
+    <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
+    <link>http://seen-saw.com</link>
+    <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
+    <lastBuildDate>Sun, 31 Dec 2017 16:56:53 -0800</lastBuildDate>
+    <language>en-GB</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>http://jekyllrb.com</generator>
+    <itunes:summary>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</itunes:summary>
+    <itunes:author>Logan Sorese</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+    <itunes:owner>
+        <itunes:name>Logan Sorese</itunes:name>
+        <itunes:email>logan@sorese.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>logan@sorese.com (Logan Sorese)</managingEditor>
+    <itunes:subtitle>A weekly music podcast from Logan Sorese</itunes:subtitle>
+    <image>
+        <title>Seen/Saw Podcast</title>
+        <url>http://seen-saw.com/assets/images/logo.jpg</url>
+        <link>http://seen-saw.com</link>
+    </image>
+    <itunes:category text="Technology">
+        <itunes:category text="Music" />
+        <itunes:category text="Music" />
+    </itunes:category>
+  
+    <item>
+        <title>Second Podcast</title>
+        <link>http://seen-saw.com/podcast/second-podcast.html</link>
+        <comments>http://seen-saw.com/podcast/second-podcast.html#comments</comments>
+        <pubDate>Thu, 09 Feb 2017 18:07:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/second-podcast.html</guid>
+        <description>
+            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[<p>This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)</p>
+
+<p>It also includes an audio tag so people visiting the blog can play it directly:</p>
+
+<audio preload="none" style="width: 100%;" class="audio" controls="controls">
+    <source type="audio/mp3" src="http://seen-saw.com/audio/free-software-song.mp3" />
+    <a href=""></a>
+</audio>
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/free-software-song.mp3" length="108621" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[<p>This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)</p>
+
+<p>It also includes an audio tag so people visiting the blog can play it directly:</p>
+
+<audio preload="none" style="width: 100%;" class="audio" controls="controls">
+    <source type="audio/mp3" src="http://seen-saw.com/audio/free-software-song.mp3" />
+    <a href=""></a>
+</audio>
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:48</itunes:duration>
+    </item>
+  
+    <item>
+        <title>My First Podcast</title>
+        <link>http://seen-saw.com/podcast/my-first-podcast.html</link>
+        <comments>http://seen-saw.com/podcast/my-first-podcast.html#comments</comments>
+        <pubDate>Tue, 07 Feb 2017 18:07:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/my-first-podcast.html</guid>
+        <description>
+            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[<p>This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)</p>
+
+<p>It also includes an audio tag so people visiting the blog can play it directly:</p>
+
+<audio preload="none" style="width: 100%;" class="audio" controls="controls">
+    <source type="audio/mp3" src="http://seen-saw.com/audio/free-software-song.mp3" />
+    <a href=""></a>
+</audio>
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/free-software-song.mp3" length="108621" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[<p>This post is in the podcast category so it will be included in your podcast RSS
+feeds.  (You can see the feed subscribe links at the bottom of the page.)</p>
+
+<p>It also includes an audio tag so people visiting the blog can play it directly:</p>
+
+<audio preload="none" style="width: 100%;" class="audio" controls="controls">
+    <source type="audio/mp3" src="http://seen-saw.com/audio/free-software-song.mp3" />
+    <a href=""></a>
+</audio>
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:48</itunes:duration>
+    </item>
+  
+</channel>
+</rss>
+
