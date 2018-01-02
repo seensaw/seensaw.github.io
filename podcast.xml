@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 31 Dec 2017 21:00:29 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 18:10:53 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,27 +40,21 @@
     </itunes:category>
   
     <item>
-        <title>Second Podcast</title>
-        <link>http://seen-saw.com/podcast/second-podcast.html</link>
-        <comments>http://seen-saw.com/podcast/second-podcast.html#comments</comments>
-        <pubDate>Thu, 09 Feb 2017 18:07:00 -0800</pubDate>
+        <title>Let Me In</title>
+        <link>http://seen-saw.com/podcast/let-me-in.html</link>
+        <comments>http://seen-saw.com/podcast/let-me-in.html#comments</comments>
+        <pubDate>Mon, 01 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/second-podcast.html</guid>
+        <guid isPermaLink="true">http://seen-saw.com/podcast/let-me-in.html</guid>
         <description>
-            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-]]>
+            <![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this...]]>
         </description>
         <content:encoded>
-            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-It also includes an audio tag so people visiting the blog can play it directly:
+            <![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that’s exactly why I’m uploading as is.
 
 
     
@@ -69,15 +63,9 @@ It also includes an audio tag so people visiting the blog can play it directly:
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/free-software-song.mp3" length="108621" type="audio/mpeg" />
-        <itunes:subtitle><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-]]></itunes:subtitle>
-        <itunes:summary><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-It also includes an audio tag so people visiting the blog can play it directly:
+        <enclosure url="http://seen-saw.com/audio/week1-letmein.mp3" length="4648603" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that’s exactly why I’m uploading as is.
 
 
     
@@ -88,59 +76,7 @@ It also includes an audio tag so people visiting the blog can play it directly:
         <itunes:author>Logan Sorese</itunes:author>
         <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:duration>1:48</itunes:duration>
-    </item>
-  
-    <item>
-        <title>My First Podcast</title>
-        <link>http://seen-saw.com/podcast/my-first-podcast.html</link>
-        <comments>http://seen-saw.com/podcast/my-first-podcast.html#comments</comments>
-        <pubDate>Tue, 07 Feb 2017 18:07:00 -0800</pubDate>
-        <dc:creator><![CDATA[]]></dc:creator>
-    
-        <category><![CDATA[podcast]]></category>
-    
-    
-        <guid isPermaLink="true">http://seen-saw.com/podcast/my-first-podcast.html</guid>
-        <description>
-            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-]]>
-        </description>
-        <content:encoded>
-            <![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-It also includes an audio tag so people visiting the blog can play it directly:
-
-
-    
-    
-
-
-]]>
-        </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/free-software-song.mp3" length="108621" type="audio/mpeg" />
-        <itunes:subtitle><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-]]></itunes:subtitle>
-        <itunes:summary><![CDATA[This post is in the podcast category so it will be included in your podcast RSS
-feeds.  (You can see the feed subscribe links at the bottom of the page.)
-
-It also includes an audio tag so people visiting the blog can play it directly:
-
-
-    
-    
-
-
-]]></itunes:summary>
-        <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:duration>1:48</itunes:duration>
+        <itunes:duration>3:13</itunes:duration>
     </item>
   
 </channel>
