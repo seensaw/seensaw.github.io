@@ -23,7 +23,7 @@
 </script></head>
   <body>
     <div class="base">
-      <header><a class="logo wrap" href="http://seen-saw.com"><img src="assets/images/logo.jpg"></a>
+      <header><a class="logo wrap" href="http://seen-saw.com"><img src="/assets/images/logo.jpg"></a>
         <div class="links"><a class="apple" href="https://itunes.apple.com/us/podcast/seen-saw-podcast/id1330525542" data-tooltip="Subscribe on Apple Podcasts" target="_blank"><span class="fa fa-apple"></span></a><a class="rss" href="/podcast.xml" data-tooltip="Subscribe Basically Anywhere" target="_blank"><span class="fa fa-rss"></span></a><a class="rss" href="http://twitter.com/logibear" data-tooltip="Twitter Horseshit" target="_blank"><span class="fa fa-twitter"></span></a></div>
         <div class="desc"> 
           <div class="wrap">
