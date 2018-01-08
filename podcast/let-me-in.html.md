@@ -33,7 +33,7 @@
       </header><article>
   <div class="wrap">
     <h2> <a href="/podcast/let-me-in.html">Let Me In</a><span>Week &#35;1</span>        </h2>
-    <h3>Jan 1, 2018</h3>*Ahem*. Is this thing on? Welcome to Week #1. This week's song is called "_Let Me In_" and I'm trying to not be overly precious about it. I say "try" because I'm fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that's exactly why I'm uploading as is.
+    <h3>Jan 1, 2018</h3>*Ahem*. Is this thing on? Welcome to Week #1. This week's song is called "Let Me In" and I'm trying to not be overly precious about it. I say "try" because I'm fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that's exactly why I'm uploading as is.
 
 <audio preload="none" style="width: 100%;" class="audio" controls="controls">
     <source type="audio/mp3" src="http://seen-saw.com/audio/week1_letmein.mp3" />
