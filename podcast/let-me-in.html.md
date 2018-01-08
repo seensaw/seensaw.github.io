@@ -30,24 +30,7 @@
             <p>A weekly (sometimes bi-weekly) song challenge podcast completed by Logan Sorese &amp; Friends.</p>
           </div>
         </div>
-      </header>
-<article>
-  <div class="wrap">
-    <h2> <a href="/podcast/how-odd-how-suspect.html">How Odd, How Suspect</a><span>Week &#35;2</span>        </h2>
-    <h3>Jan 7, 2018</h3>I've spent a lot of time this year volunteering with a hospice. It's an odd gig. Sitting in with people who are dying in the next six months. They know their days are numbered and they have an opportunity to make peace with that. Some do, some don't, some are massively depressed, and some act like nothing is different. It's made me realize that I want to know I'm dying. I don't want it to be sudden, I want to know it's name and follow it through.
-
-This song has been brewing for a while and I'm happy with the way it came out. It's kind of a sleepy one. Enjoy.
-
-<audio preload="none" style="width: 100%;" class="audio" controls="controls">
-    <source type="audio/mp3" src="http://seen-saw.com/audio/week2_howoddhowsuspect.mp3" />
-    <a href=""></a>
-</audio>
-
-
-    <a class="download" href="/audio/week2_howoddhowsuspect.mp3">Download MP3</a>        
-  </div>
-</article>
-<article>
+      </header><article>
   <div class="wrap">
     <h2> <a href="/podcast/let-me-in.html">Let Me In</a><span>Week &#35;1</span>        </h2>
     <h3>Jan 1, 2018</h3>*Ahem*. Is this thing on? Welcome to Week #1. This week's song is called "_Let Me In_" and I'm trying to not be overly precious about it. I say "try" because I'm fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that's exactly why I'm uploading as is.
@@ -58,7 +41,7 @@ This song has been brewing for a while and I'm happy with the way it came out. I
 </audio>
 
 
-    <a class="download" href="/audio/week1_letmein.mp3">Download MP3</a>        
+    <a class="download" href="/audio/week1_letmein">Download MP3</a>    
   </div>
 </article>  
       <footer>
