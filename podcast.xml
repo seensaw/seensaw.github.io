@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 07 Jan 2018 20:55:57 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 17:07:17 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,50 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Shapeshifter</title>
+        <link>http://seen-saw.com/podcast/shapeshifter.html</link>
+        <comments>http://seen-saw.com/podcast/shapeshifter.html#comments</comments>
+        <pubDate>Mon, 15 Jan 2018 09:55:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/shapeshifter.html</guid>
+        <description>
+            <![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week3_shapeshifter.mp3" length="4210598" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>5:16</itunes:duration>
+    </item>
   
     <item>
         <title>How Odd, How Suspect</title>
