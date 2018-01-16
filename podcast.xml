@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Mon, 15 Jan 2018 17:08:11 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 18:19:23 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -65,7 +65,7 @@
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week3_shapeshifter.mp3" length="4210598" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week3_shapeshifter.mp3" length="4231799" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
 
 ]]></itunes:subtitle>
