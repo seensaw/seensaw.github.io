@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 31 Jan 2018 11:33:04 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 14:36:03 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,54 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Who Loves You?</title>
+        <link>http://seen-saw.com/podcast/who-loves-you.html</link>
+        <comments>http://seen-saw.com/podcast/who-loves-you.html#comments</comments>
+        <pubDate>Wed, 07 Feb 2018 09:55:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/who-loves-you.html</guid>
+        <description>
+            <![CDATA[Hello! This is old shit turned new shit; there's a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Hello! This is old shit turned new shit; there's a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
+
+This song goes out to my parents who raised me when I was younger and still raise me now. Thanks for everyone's support, hope you enjoy!
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week6_wholovesyou.mp3" length="3923328" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Hello! This is old shit turned new shit; there's a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Hello! This is old shit turned new shit; there's a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
+
+This song goes out to my parents who raised me when I was younger and still raise me now. Thanks for everyone's support, hope you enjoy!
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:06</itunes:duration>
+    </item>
   
     <item>
         <title>Rose</title>
