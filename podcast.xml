@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Tue, 13 Feb 2018 11:48:28 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 18:17:51 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,50 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Millennial Freelancer Blues</title>
+        <link>http://seen-saw.com/podcast/millennial-freelancer-blues.html</link>
+        <comments>http://seen-saw.com/podcast/millennial-freelancer-blues.html#comments</comments>
+        <pubDate>Wed, 14 Feb 2018 09:55:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/millennial-freelancer-blues.html</guid>
+        <description>
+            <![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week7_millennial_freelancer_blues.mp3" length="1724083" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>0:43</itunes:duration>
+    </item>
   
     <item>
         <title>Who Loves You?</title>
