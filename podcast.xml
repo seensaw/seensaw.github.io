@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Tue, 27 Feb 2018 22:17:04 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 22:17:39 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,50 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>In the Words of Delaney Tarr  </title>
+        <link>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html</link>
+        <comments>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html#comments</comments>
+        <pubDate>Tue, 27 Feb 2018 09:55:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html</guid>
+        <description>
+            <![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in a rural hometown. Now, years later, it’s only gotten worse and I had completely given up on it ever getting fixed – that is until these kids from Florida started talking. This is the first time, in my memory, that students have been taken seriously in this conversation and it makes me so, so thankful.
+
+I’ve spent this entire project talking for myself, thought I’d try on what it’d feel like to give someone else a chance to speak. Thanks, enjoy, call your representatives. I just did.
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week9_delaney.mp3" length="8021683" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in a rural hometown. Now, years later, it’s only gotten worse and I had completely given up on it ever getting fixed – that is until these kids from Florida started talking. This is the first time, in my memory, that students have been taken seriously in this conversation and it makes me so, so thankful.
+
+I’ve spent this entire project talking for myself, thought I’d try on what it’d feel like to give someone else a chance to speak. Thanks, enjoy, call your representatives. I just did.
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:20</itunes:duration>
+    </item>
   
     <item>
         <title>My Baby</title>
