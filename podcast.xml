@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 07 Mar 2018 20:38:29 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 20:39:09 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,54 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Real Men Hunt in Packs</title>
+        <link>http://seen-saw.com/podcast/real-men-hunt-in-packs.html</link>
+        <comments>http://seen-saw.com/podcast/real-men-hunt-in-packs.html#comments</comments>
+        <pubDate>Wed, 07 Mar 2018 09:55:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/real-men-hunt-in-packs.html</guid>
+        <description>
+            <![CDATA[Week 10! And it figures this is the first one that I’m a day late.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Week 10! And it figures this is the first one that I’m a day late.
+
+This one was written this week because I wanted something funky. Not saying I know how to be funky, but this song is kinda funky – in more ways than one. Enjoy!
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week10_realmenhuntinpacks.mp3" length="6360296" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Week 10! And it figures this is the first one that I’m a day late.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Week 10! And it figures this is the first one that I’m a day late.
+
+This one was written this week because I wanted something funky. Not saying I know how to be funky, but this song is kinda funky – in more ways than one. Enjoy!
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:38</itunes:duration>
+    </item>
   
     <item>
         <title>In the Words of Delaney Tarr  </title>
