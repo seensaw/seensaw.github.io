@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 14 Mar 2018 12:02:28 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Mar 2018 12:02:54 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,54 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Beating, Beating, Beating</title>
+        <link>http://seen-saw.com/podcast/beating-beating-beating.html</link>
+        <comments>http://seen-saw.com/podcast/beating-beating-beating.html#comments</comments>
+        <pubDate>Wed, 14 Mar 2018 10:55:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/beating-beating-beating.html</guid>
+        <description>
+            <![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good....]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good.
+
+This song is kind of negative, but it was also pretty cathartic to record. I’m going on a meditation retreat next week, so I’m spending a lot of time thinking about the thing that is me and who I want to become. I’ll get there, just like you.
+
+Speaking of retreat, not sure how I’m going to release the track next week since I’ll be gone. It may be released before or after, but I won’t miss a week, I promise you that.
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week11_beatingbeatingbeating.mp3" length="5406304" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good....]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good.
+
+This song is kind of negative, but it was also pretty cathartic to record. I’m going on a meditation retreat next week, so I’m spending a lot of time thinking about the thing that is me and who I want to become. I’ll get there, just like you.
+
+Speaking of retreat, not sure how I’m going to release the track next week since I’ll be gone. It may be released before or after, but I won’t miss a week, I promise you that.
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:15</itunes:duration>
+    </item>
   
     <item>
         <title>Real Men Hunt in Packs</title>
