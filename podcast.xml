@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 14 Mar 2018 12:03:18 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Mar 2018 12:32:21 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -67,7 +67,7 @@ Speaking of retreat, not sure how I’m going to release the track next week sin
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week11_beatingbeatingbeating.mp3" length="5406304" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week11_beatingbeatingbeating.mp3" length="5525422" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good....]]></itunes:subtitle>
         <itunes:summary><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good.
 
@@ -84,7 +84,7 @@ Speaking of retreat, not sure how I’m going to release the track next week sin
         <itunes:author>Logan Sorese</itunes:author>
         <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:duration>2:15</itunes:duration>
+        <itunes:duration>2:18</itunes:duration>
     </item>
   
     <item>
