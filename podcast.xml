@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Tue, 20 Mar 2018 09:02:03 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 09:02:28 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,54 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Ducks</title>
+        <link>http://seen-saw.com/podcast/ducks.html</link>
+        <comments>http://seen-saw.com/podcast/ducks.html#comments</comments>
+        <pubDate>Tue, 20 Mar 2018 03:55:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/ducks.html</guid>
+        <description>
+            <![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
+
+But this one is dear to my heart and a sort of lullaby for myself. Enjoy!
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week12_ducks.mp3" length="7313243" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
+
+But this one is dear to my heart and a sort of lullaby for myself. Enjoy!
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:02</itunes:duration>
+    </item>
   
     <item>
         <title>Beating, Beating, Beating</title>
