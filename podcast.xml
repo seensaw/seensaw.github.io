@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Tue, 20 Mar 2018 09:02:28 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 19:35:38 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,50 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Take Rest</title>
+        <link>http://seen-saw.com/podcast/take-rest.html</link>
+        <comments>http://seen-saw.com/podcast/take-rest.html#comments</comments>
+        <pubDate>Wed, 04 Apr 2018 10:55:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/take-rest.html</guid>
+        <description>
+            <![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing....]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing.
+
+So, this song was written in my mind during last week, scribbled on contraband scraps of paper in between sessions. I hope you like it!
+
+
+    
+    
+
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week13_takerest.mp3" length="8562941" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing....]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing.
+
+So, this song was written in my mind during last week, scribbled on contraband scraps of paper in between sessions. I hope you like it!
+
+
+    
+    
+
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:34</itunes:duration>
+    </item>
   
     <item>
         <title>Ducks</title>
