@@ -11,10 +11,10 @@
 >
 <channel>
     <title>Seen/Saw Podcast</title>
-    <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
-    <link>http://seen-saw.com</link>
+    <atom:link href="//podcast-mp3.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 04 Apr 2018 19:35:38 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 17:30:18 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@
     <itunes:summary>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</itunes:summary>
     <itunes:author>Logan Sorese</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+    <itunes:image href="//assets/images/logo.jpg" />
     <itunes:owner>
         <itunes:name>Logan Sorese</itunes:name>
         <itunes:email>logan@sorese.com</itunes:email>
@@ -31,8 +31,8 @@
     <itunes:subtitle>A weekly music podcast from Logan Sorese</itunes:subtitle>
     <image>
         <title>Seen/Saw Podcast</title>
-        <url>http://seen-saw.com/assets/images/logo.jpg</url>
-        <link>http://seen-saw.com</link>
+        <url>//assets/images/logo.jpg</url>
+        <link>/</link>
     </image>
     <itunes:category text="Music">
         <itunes:category text="Music" />
@@ -40,16 +40,72 @@
     </itunes:category>
   
     <item>
+        <title>Colder Than Your Balcony</title>
+        <link>//podcast/colder-than-your-balcony.html</link>
+        <comments>//podcast/colder-than-your-balcony.html#comments</comments>
+        <pubDate>Wed, 11 Apr 2018 03:55:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">//podcast/colder-than-your-balcony.html</guid>
+        <description>
+            <![CDATA[Sometimes, things conspire to make sure you’re not on your game. Work, travel, friends, sickness, or just lack of energy; any of those can knock you off your pedestal. It’s possible that I’ve experienced all of these roadblocks this week and I’m still here, but a little haggard.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Sometimes, things conspire to make sure you’re not on your game. Work, travel, friends, sickness, or just lack of energy; any of those can knock you off your pedestal. It’s possible that I’ve experienced all of these roadblocks this week and I’m still here, but a little haggard.
+
+I’m writing this with a fever and a 3 and half hour drive ahead of me and I’m pretty wrecked. So, enjoy this track. Back to form next week, I hope! Enjoy.
+
+(With all that said, there is a redesign, so that’s something!)
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="//audio/week14_colderthanyourbalcony.mp3" length="8860736" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Sometimes, things conspire to make sure you’re not on your game. Work, travel, friends, sickness, or just lack of energy; any of those can knock you off your pedestal. It’s possible that I’ve experienced all of these roadblocks this week and I’m still here, but a little haggard.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Sometimes, things conspire to make sure you’re not on your game. Work, travel, friends, sickness, or just lack of energy; any of those can knock you off your pedestal. It’s possible that I’ve experienced all of these roadblocks this week and I’m still here, but a little haggard.
+
+I’m writing this with a fever and a 3 and half hour drive ahead of me and I’m pretty wrecked. So, enjoy this track. Back to form next week, I hope! Enjoy.
+
+(With all that said, there is a redesign, so that’s something!)
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="//assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:41</itunes:duration>
+    </item>
+  
+    <item>
         <title>Take Rest</title>
-        <link>http://seen-saw.com/podcast/take-rest.html</link>
-        <comments>http://seen-saw.com/podcast/take-rest.html#comments</comments>
+        <link>//podcast/take-rest.html</link>
+        <comments>//podcast/take-rest.html#comments</comments>
         <pubDate>Wed, 04 Apr 2018 10:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/take-rest.html</guid>
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">//podcast/take-rest.html</guid>
         <description>
             <![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing....]]>
         </description>
@@ -60,12 +116,12 @@ So, this song was written in my mind during last week, scribbled on contraband s
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week13_takerest.mp3" length="8562941" type="audio/mpeg" />
+        <enclosure url="//audio/week13_takerest.mp3" length="8562941" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing....]]></itunes:subtitle>
         <itunes:summary><![CDATA[Week 13? Week 14? Hard to say because I missed last week for legitimately wonderful reasons. I took a 10 day silent meditation retreat via dhamma.org and I’d suggest it to basically anyone with an interest in meditation. It was difficult – incredibly difficult – but so wonderful and catalyzing.
 
@@ -73,27 +129,29 @@ So, this song was written in my mind during last week, scribbled on contraband s
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>3:34</itunes:duration>
     </item>
   
     <item>
         <title>Ducks</title>
-        <link>http://seen-saw.com/podcast/ducks.html</link>
-        <comments>http://seen-saw.com/podcast/ducks.html#comments</comments>
+        <link>//podcast/ducks.html</link>
+        <comments>//podcast/ducks.html#comments</comments>
         <pubDate>Tue, 20 Mar 2018 03:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/ducks.html</guid>
+        <category><![CDATA[ukulele]]></category>
+    
+        <guid isPermaLink="true">//podcast/ducks.html</guid>
         <description>
             <![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
 
@@ -106,12 +164,12 @@ But this one is dear to my heart and a sort of lullaby for myself. Enjoy!
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week12_ducks.mp3" length="7313243" type="audio/mpeg" />
+        <enclosure url="//audio/week12_ducks.mp3" length="7313243" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Week 12! I will be missing next week due to a trip, I’ll think about how to handle that, but I think I want to do some kind of punishment. Maybe covering a terrible song.
 
 ]]></itunes:subtitle>
@@ -121,27 +179,29 @@ But this one is dear to my heart and a sort of lullaby for myself. Enjoy!
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>3:02</itunes:duration>
     </item>
   
     <item>
         <title>Beating, Beating, Beating</title>
-        <link>http://seen-saw.com/podcast/beating-beating-beating.html</link>
-        <comments>http://seen-saw.com/podcast/beating-beating-beating.html#comments</comments>
+        <link>//podcast/beating-beating-beating.html</link>
+        <comments>//podcast/beating-beating-beating.html#comments</comments>
         <pubDate>Tue, 13 Mar 2018 19:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/beating-beating-beating.html</guid>
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">//podcast/beating-beating-beating.html</guid>
         <description>
             <![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good....]]>
         </description>
@@ -154,12 +214,12 @@ Speaking of retreat, not sure how I’m going to release the track next week sin
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week11_beatingbeatingbeating.mp3" length="5525422" type="audio/mpeg" />
+        <enclosure url="//audio/week11_beatingbeatingbeating.mp3" length="5525422" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good....]]></itunes:subtitle>
         <itunes:summary><![CDATA[This track is really, really simple and I like it that way. I got bogged down this week on how to record songs well, with drums, bass and three part harmony and it drove me crazy before realizing I didn’t have to do any of that. Sometimes simple is good.
 
@@ -169,27 +229,29 @@ Speaking of retreat, not sure how I’m going to release the track next week sin
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>2:18</itunes:duration>
     </item>
   
     <item>
         <title>Real Men Hunt in Packs</title>
-        <link>http://seen-saw.com/podcast/real-men-hunt-in-packs.html</link>
-        <comments>http://seen-saw.com/podcast/real-men-hunt-in-packs.html#comments</comments>
+        <link>//podcast/real-men-hunt-in-packs.html</link>
+        <comments>//podcast/real-men-hunt-in-packs.html#comments</comments>
         <pubDate>Wed, 07 Mar 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/real-men-hunt-in-packs.html</guid>
+        <category><![CDATA[rock]]></category>
+    
+        <guid isPermaLink="true">//podcast/real-men-hunt-in-packs.html</guid>
         <description>
             <![CDATA[Week 10! And it figures this is the first one that I’m a day late.
 
@@ -202,12 +264,12 @@ This one was written this week because I wanted something funky. Not saying I kn
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week10_realmenhuntinpacks.mp3" length="6360296" type="audio/mpeg" />
+        <enclosure url="//audio/week10_realmenhuntinpacks.mp3" length="6360296" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Week 10! And it figures this is the first one that I’m a day late.
 
 ]]></itunes:subtitle>
@@ -217,27 +279,29 @@ This one was written this week because I wanted something funky. Not saying I kn
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>2:38</itunes:duration>
     </item>
   
     <item>
         <title>In the Words of Delaney Tarr  </title>
-        <link>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html</link>
-        <comments>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html#comments</comments>
+        <link>//podcast/in-the-words-of-delaney-tarr.html</link>
+        <comments>//podcast/in-the-words-of-delaney-tarr.html#comments</comments>
         <pubDate>Tue, 27 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html</guid>
+        <category><![CDATA[rock]]></category>
+    
+        <guid isPermaLink="true">//podcast/in-the-words-of-delaney-tarr.html</guid>
         <description>
             <![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in...]]>
         </description>
@@ -248,12 +312,12 @@ I’ve spent this entire project talking for myself, thought I’d try on what i
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week9_delaney.mp3" length="8021683" type="audio/mpeg" />
+        <enclosure url="//audio/week9_delaney.mp3" length="8021683" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in...]]></itunes:subtitle>
         <itunes:summary><![CDATA[I remember getting out of rehearsals for the Gershwin play “Crazy for You” when I got a text from my mom telling me there was a shooting at Virginia Tech. I was 16, a year from applying to college and getting shot was the last thing on my mind in a rural hometown. Now, years later, it’s only gotten worse and I had completely given up on it ever getting fixed – that is until these kids from Florida started talking. This is the first time, in my memory, that students have been taken seriously in this conversation and it makes me so, so thankful.
 
@@ -261,27 +325,29 @@ I’ve spent this entire project talking for myself, thought I’d try on what i
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>3:20</itunes:duration>
     </item>
   
     <item>
         <title>My Baby</title>
-        <link>http://seen-saw.com/podcast/my-baby.html</link>
-        <comments>http://seen-saw.com/podcast/my-baby.html#comments</comments>
+        <link>//podcast/my-baby.html</link>
+        <comments>//podcast/my-baby.html#comments</comments>
         <pubDate>Wed, 21 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/my-baby.html</guid>
+        <category><![CDATA[ukulele]]></category>
+    
+        <guid isPermaLink="true">//podcast/my-baby.html</guid>
         <description>
             <![CDATA[I used to write a lot of ukulele children’s music in college and played them before punk shows. I got a kind response, but I’m sure they had no idea what to do with me playing ukulele songs about alligators and dance parties.
 
@@ -294,12 +360,12 @@ This was written about a month ago in my car while waiting for a nail appointmen
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week8_my_baby.mp3" length="5350924" type="audio/mpeg" />
+        <enclosure url="//audio/week8_my_baby.mp3" length="5350924" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[I used to write a lot of ukulele children’s music in college and played them before punk shows. I got a kind response, but I’m sure they had no idea what to do with me playing ukulele songs about alligators and dance parties.
 
 ]]></itunes:subtitle>
@@ -309,27 +375,29 @@ This was written about a month ago in my car while waiting for a nail appointmen
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>2:13</itunes:duration>
     </item>
   
     <item>
         <title>Millennial Freelancer Blues</title>
-        <link>http://seen-saw.com/podcast/millennial-freelancer-blues.html</link>
-        <comments>http://seen-saw.com/podcast/millennial-freelancer-blues.html#comments</comments>
+        <link>//podcast/millennial-freelancer-blues.html</link>
+        <comments>//podcast/millennial-freelancer-blues.html#comments</comments>
         <pubDate>Wed, 14 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/millennial-freelancer-blues.html</guid>
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">//podcast/millennial-freelancer-blues.html</guid>
         <description>
             <![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
 
@@ -340,12 +408,12 @@ This was written about a month ago in my car while waiting for a nail appointmen
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week7_millennial_freelancer_blues.mp3" length="1724083" type="audio/mpeg" />
+        <enclosure url="//audio/week7_millennial_freelancer_blues.mp3" length="1724083" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
 
 ]]></itunes:subtitle>
@@ -353,27 +421,29 @@ This was written about a month ago in my car while waiting for a nail appointmen
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>0:43</itunes:duration>
     </item>
   
     <item>
         <title>Who Loves You?</title>
-        <link>http://seen-saw.com/podcast/who-loves-you.html</link>
-        <comments>http://seen-saw.com/podcast/who-loves-you.html#comments</comments>
+        <link>//podcast/who-loves-you.html</link>
+        <comments>//podcast/who-loves-you.html#comments</comments>
         <pubDate>Wed, 07 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/who-loves-you.html</guid>
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">//podcast/who-loves-you.html</guid>
         <description>
             <![CDATA[Hello! This is old shit turned new shit; there’s a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
 
@@ -386,12 +456,12 @@ This song goes out to my parents who raised me when I was younger and still rais
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week6_wholovesyou.mp3" length="7458483" type="audio/mpeg" />
+        <enclosure url="//audio/week6_wholovesyou.mp3" length="7458483" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Hello! This is old shit turned new shit; there’s a bad version of this from 6 years ago on an old, abandoned soundcloud that was about something completely different, I changed words and structure and here we are.
 
 ]]></itunes:subtitle>
@@ -401,27 +471,29 @@ This song goes out to my parents who raised me when I was younger and still rais
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>3:06</itunes:duration>
     </item>
   
     <item>
         <title>Rose</title>
-        <link>http://seen-saw.com/podcast/rose.html</link>
-        <comments>http://seen-saw.com/podcast/rose.html#comments</comments>
+        <link>//podcast/rose.html</link>
+        <comments>//podcast/rose.html#comments</comments>
         <pubDate>Wed, 31 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/rose.html</guid>
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">//podcast/rose.html</guid>
         <description>
             <![CDATA[This is an old song; a rare old-song gem that doesn’t completely embarrass me. I wrote it in Pittsburgh in 2014 at 2am, alone in my apartment, for a band that broke up a few weeks after learning how to play it. This one has some yelling over acoustic instruments...]]>
         </description>
@@ -436,12 +508,12 @@ Enjoy!
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week5_rose.mp3" length="10997553" type="audio/mpeg" />
+        <enclosure url="//audio/week5_rose.mp3" length="10997553" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This is an old song; a rare old-song gem that doesn’t completely embarrass me. I wrote it in Pittsburgh in 2014 at 2am, alone in my apartment, for a band that broke up a few weeks after learning how to play it. This one has some yelling over acoustic instruments...]]></itunes:subtitle>
         <itunes:summary><![CDATA[This is an old song; a rare old-song gem that doesn’t completely embarrass me. I wrote it in Pittsburgh in 2014 at 2am, alone in my apartment, for a band that broke up a few weeks after learning how to play it. This one has some yelling over acoustic instruments which is so like me, I know.
 
@@ -453,27 +525,29 @@ Enjoy!
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>4:34</itunes:duration>
     </item>
   
     <item>
         <title>Hold Your Breath</title>
-        <link>http://seen-saw.com/podcast/hold-your-breath.html</link>
-        <comments>http://seen-saw.com/podcast/hold-your-breath.html#comments</comments>
+        <link>//podcast/hold-your-breath.html</link>
+        <comments>//podcast/hold-your-breath.html#comments</comments>
         <pubDate>Tue, 23 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/hold-your-breath.html</guid>
+        <category><![CDATA[piano]]></category>
+    
+        <guid isPermaLink="true">//podcast/hold-your-breath.html</guid>
         <description>
             <![CDATA[Sometimes you make a song and you think it’s about one thing until you play it for a crowd. Earlier this week, I played this song at my weekly open mic and I got an emotional reaction from someone I admire greatly. Someone who treats art with the utmost respect...]]>
         </description>
@@ -484,12 +558,12 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week4_holdyourbreath.mp3" length="10344492" type="audio/mpeg" />
+        <enclosure url="//audio/week4_holdyourbreath.mp3" length="10344492" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Sometimes you make a song and you think it’s about one thing until you play it for a crowd. Earlier this week, I played this song at my weekly open mic and I got an emotional reaction from someone I admire greatly. Someone who treats art with the utmost respect...]]></itunes:subtitle>
         <itunes:summary><![CDATA[Sometimes you make a song and you think it’s about one thing until you play it for a crowd. Earlier this week, I played this song at my weekly open mic and I got an emotional reaction from someone I admire greatly. Someone who treats art with the utmost respect and I love them so dearly and I aspire to be more like them. So, this song goes out to that person; you know who you are.
 
@@ -497,27 +571,29 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>4:18</itunes:duration>
     </item>
   
     <item>
         <title>Shapeshifter</title>
-        <link>http://seen-saw.com/podcast/shapeshifter.html</link>
-        <comments>http://seen-saw.com/podcast/shapeshifter.html#comments</comments>
+        <link>//podcast/shapeshifter.html</link>
+        <comments>//podcast/shapeshifter.html#comments</comments>
         <pubDate>Mon, 15 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/shapeshifter.html</guid>
+        <category><![CDATA[rock]]></category>
+    
+        <guid isPermaLink="true">//podcast/shapeshifter.html</guid>
         <description>
             <![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
 
@@ -528,12 +604,12 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week3_shapeshifter.mp3" length="4231799" type="audio/mpeg" />
+        <enclosure url="//audio/week3_shapeshifter.mp3" length="4231799" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This is the first public week of Seen/Saw so thanks to all the listeners tuning in for the first time! This is a track I wrote and recorded in Detroit with Jon Marsh on Drums.
 
 ]]></itunes:subtitle>
@@ -541,27 +617,29 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>5:16</itunes:duration>
     </item>
   
     <item>
         <title>Thanks (Cloud Cult cover)</title>
-        <link>http://seen-saw.com/podcast/thanks.html</link>
-        <comments>http://seen-saw.com/podcast/thanks.html#comments</comments>
+        <link>//podcast/thanks.html</link>
+        <comments>//podcast/thanks.html#comments</comments>
         <pubDate>Sun, 14 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/thanks.html</guid>
+        <category><![CDATA[cover]]></category>
+    
+        <guid isPermaLink="true">//podcast/thanks.html</guid>
         <description>
             <![CDATA[Woke up with a song in my head, gonna get it out. Cloud Cult got me out of a huge funk this year and I’ve become an evangelist for their music. It’s beautiful and corny and wonderful and everything I want out of a band.
 
@@ -572,12 +650,12 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week3.5_thanks.mp3" length="7196214" type="audio/mpeg" />
+        <enclosure url="//audio/week3.5_thanks.mp3" length="7196214" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Woke up with a song in my head, gonna get it out. Cloud Cult got me out of a huge funk this year and I’ve become an evangelist for their music. It’s beautiful and corny and wonderful and everything I want out of a band.
 
 ]]></itunes:subtitle>
@@ -585,27 +663,29 @@ This song has piano, which is new for me. In general, I’m not good at it, but 
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>2:59</itunes:duration>
     </item>
   
     <item>
         <title>How Odd, How Suspect</title>
-        <link>http://seen-saw.com/podcast/how-odd-how-suspect.html</link>
-        <comments>http://seen-saw.com/podcast/how-odd-how-suspect.html#comments</comments>
+        <link>//podcast/how-odd-how-suspect.html</link>
+        <comments>//podcast/how-odd-how-suspect.html#comments</comments>
         <pubDate>Sun, 07 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/how-odd-how-suspect.html</guid>
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">//podcast/how-odd-how-suspect.html</guid>
         <description>
             <![CDATA[I’ve spent a lot of time this year volunteering with a hospice. It’s an odd gig. Sitting in with people who are dying in the next six months. They know their days are numbered and they have an opportunity to make peace with that. Some do, some don’t, some are...]]>
         </description>
@@ -616,12 +696,12 @@ This song has been brewing for a while and I’m happy with the way it came out.
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week2_howoddhowsuspect.mp3" length="13376006" type="audio/mpeg" />
+        <enclosure url="//audio/week2_howoddhowsuspect.mp3" length="13376006" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[I’ve spent a lot of time this year volunteering with a hospice. It’s an odd gig. Sitting in with people who are dying in the next six months. They know their days are numbered and they have an opportunity to make peace with that. Some do, some don’t, some are...]]></itunes:subtitle>
         <itunes:summary><![CDATA[I’ve spent a lot of time this year volunteering with a hospice. It’s an odd gig. Sitting in with people who are dying in the next six months. They know their days are numbered and they have an opportunity to make peace with that. Some do, some don’t, some are massively depressed, and some act like nothing is different. It’s made me realize that I want to know I’m dying. I don’t want it to be sudden, I want to know it’s name and follow it through.
 
@@ -629,27 +709,29 @@ This song has been brewing for a while and I’m happy with the way it came out.
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>5:34</itunes:duration>
     </item>
   
     <item>
         <title>Let Me In</title>
-        <link>http://seen-saw.com/podcast/let-me-in.html</link>
-        <comments>http://seen-saw.com/podcast/let-me-in.html#comments</comments>
+        <link>//podcast/let-me-in.html</link>
+        <comments>//podcast/let-me-in.html#comments</comments>
         <pubDate>Mon, 01 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
     
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/let-me-in.html</guid>
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">//podcast/let-me-in.html</guid>
         <description>
             <![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this...]]>
         </description>
@@ -658,23 +740,23 @@ This song has been brewing for a while and I’m happy with the way it came out.
 
 
     
-    
 
+Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week1_letmein.mp3" length="7728336" type="audio/mpeg" />
+        <enclosure url="//audio/week1_letmein.mp3" length="7728336" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this...]]></itunes:subtitle>
         <itunes:summary><![CDATA[Ahem. Is this thing on? Welcome to Week #1. This week’s song is called “Let Me In” and I’m trying to not be overly precious about it. I say “try” because I’m fighting an intense urge to go back and edit it right now or re-record vocals or scrap this entire idea. But that’s exactly why I’m uploading as is.
 
 
     
-    
 
+Download MP3
 
 ]]></itunes:summary>
         <itunes:author>Logan Sorese</itunes:author>
-        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:image href="//assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>3:13</itunes:duration>
     </item>

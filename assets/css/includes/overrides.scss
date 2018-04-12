@@ -2,14 +2,13 @@
   display: none !important;
 }
 .mejs__container {
-	background: #621E2D;
+  margin-top: 2em;
+	background: $purple;
 	text-align: left;
 	vertical-align: top;
 	text-indent: 0;
 	width: 100% !important;
 	height: 50px !important;
-	border-radius: 5px;
-  margin-top: 20px;
 }
 
 .mejs__container .mejs__controls {
@@ -54,12 +53,14 @@
 
 .mejs__container .mejs__controls .mejs__time {
 	position: absolute;
-	color: #FEFAFA;
+	color: $white;
 	right: 10px;
 	bottom: 0;
 	top: 0;
 	margin: auto;
-	font-size: 32px;
+	font-size: 1em;
+  line-height: 1.01em;
+  font-family: "Silkscreen";
 	pointer-events: none;
 }
 
@@ -130,7 +131,7 @@
 }
 
 .mejs__controls .mejs__time-rail .mejs__time-total {
-	background: #380914;
+	background: $white;
 }
 
 .mejs__controls .mejs__time-rail .mejs__time-loaded {
@@ -141,7 +142,7 @@
 }
 
 .mejs__controls .mejs__time-rail .mejs__time-current {
-	background: #621E2D
+	background: #924197;
 }
 
 .mejs__controls .mejs__button button:focus {
@@ -163,7 +164,7 @@
 }
 
 .mejs__controls .mejs__time-rail .mejs__time-total {
-    background: #380914;
+    background: $purple;
 }
 .mejs__time-hovered {
   background: rgba(254,224,230,.2)

@@ -3,7 +3,6 @@ $tablet-width: 768px;
 $desktop-width: 1280px;
 $smallerDesktop-width: 1000px;
 
-
 @mixin ultra {
     @media (min-width: #{$desktop-width} + 1) {
         @content;
