@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 18 Apr 2018 23:16:33 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Apr 2018 21:32:41 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,60 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Go West, Die Young</title>
+        <link>http://seen-saw.com/podcast/go-west-die-young.html</link>
+        <comments>http://seen-saw.com/podcast/go-west-die-young.html#comments</comments>
+        <pubDate>Wed, 25 Apr 2018 10:55:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[Folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/go-west-die-young.html</guid>
+        <description>
+            <![CDATA[This song is about a friend who died last year. They died suddenly, unexpectedly, and it was a shock when it happened. This week is the 1 year anniversary of their death and I’ve been kind of saving this song for this week.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This song is about a friend who died last year. They died suddenly, unexpectedly, and it was a shock when it happened. This week is the 1 year anniversary of their death and I’ve been kind of saving this song for this week.
+
+They weren’t the kind of friend who I kept up with often or went and got coffee when we crossed paths. They were the kind of person that you’d be happy existed; just knowing they existed on this planet was more than enough. They moved away from home, out west, around the same time I did and we spent a lot of time talking about how different it was out here and how nice it was to get away from it all. I wish they were still around; the world needs more good people.
+
+This one goes out to C. I love you and miss you.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week16_gowestdieyoung.mp3" length="11372088" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This song is about a friend who died last year. They died suddenly, unexpectedly, and it was a shock when it happened. This week is the 1 year anniversary of their death and I’ve been kind of saving this song for this week.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This song is about a friend who died last year. They died suddenly, unexpectedly, and it was a shock when it happened. This week is the 1 year anniversary of their death and I’ve been kind of saving this song for this week.
+
+They weren’t the kind of friend who I kept up with often or went and got coffee when we crossed paths. They were the kind of person that you’d be happy existed; just knowing they existed on this planet was more than enough. They moved away from home, out west, around the same time I did and we spent a lot of time talking about how different it was out here and how nice it was to get away from it all. I wish they were still around; the world needs more good people.
+
+This one goes out to C. I love you and miss you.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>4:26</itunes:duration>
+    </item>
   
     <item>
         <title>Frankly, My Dear</title>
