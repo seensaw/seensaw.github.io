@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 02 May 2018 22:29:29 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 22:30:26 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -585,8 +585,8 @@ Download MP3
   
     <item>
         <title>Rose</title>
-        <link>http://seen-saw.com/podcast/rose-copy.html</link>
-        <comments>http://seen-saw.com/podcast/rose-copy.html#comments</comments>
+        <link>http://seen-saw.com/podcast/anallpurposemachine.html</link>
+        <comments>http://seen-saw.com/podcast/anallpurposemachine.html#comments</comments>
         <pubDate>Wed, 31 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
@@ -595,7 +595,7 @@ Download MP3
     
         <category><![CDATA[folk]]></category>
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/rose-copy.html</guid>
+        <guid isPermaLink="true">http://seen-saw.com/podcast/anallpurposemachine.html</guid>
         <description>
             <![CDATA[This is an old song; a rare old-song gem that doesn’t completely embarrass me. I wrote it in Pittsburgh in 2014 at 2am, alone in my apartment, for a band that broke up a few weeks after learning how to play it. This one has some yelling over acoustic instruments...]]>
         </description>
