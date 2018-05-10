@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 02 May 2018 22:35:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 21:39:46 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,54 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Crystal's Birthday Party</title>
+        <link>http://seen-saw.com/podcast/crystals-birthday-party.html</link>
+        <comments>http://seen-saw.com/podcast/crystals-birthday-party.html#comments</comments>
+        <pubDate>Tue, 08 May 2018 17:00:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/crystals-birthday-party.html</guid>
+        <description>
+            <![CDATA[Another week, another song and this week is no different; there’s a new song. A ukulele song to be specific.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Another week, another song and this week is no different; there’s a new song. A ukulele song to be specific.
+
+This song goes out to my high school self. That misguided misanthropist who stepped over bodies and heartbreak to get what he wanted. May he rot in hell.
+
+
+    
+
+Download MP3
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week18_crystalsbirthdayparty.mp3" length="7932251" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Another week, another song and this week is no different; there’s a new song. A ukulele song to be specific.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Another week, another song and this week is no different; there’s a new song. A ukulele song to be specific.
+
+This song goes out to my high school self. That misguided misanthropist who stepped over bodies and heartbreak to get what he wanted. May he rot in hell.
+
+
+    
+
+Download MP3
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:00</itunes:duration>
+    </item>
   
     <item>
         <title>All Purpose Machine</title>
@@ -121,7 +169,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week16_gowestdieyoung.mp3" length="11372017" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week16_gowestdieyoung.mp3" length="11372034" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[This song was written last year after a friend died. They died suddenly, unexpectedly, and it was a shock when it happened. This week is the 1 year anniversary of their death and I’ve been kind of saving this song for this week.
 
 ]]></itunes:subtitle>
