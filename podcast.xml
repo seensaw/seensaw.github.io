@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 09 May 2018 21:39:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 May 2018 22:56:03 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,50 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Dirty Uncle Sal</title>
+        <link>http://seen-saw.com/podcast/sad-uncle-sal.html</link>
+        <comments>http://seen-saw.com/podcast/sad-uncle-sal.html#comments</comments>
+        <pubDate>Tue, 15 May 2018 17:00:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[Pop]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/sad-uncle-sal.html</guid>
+        <description>
+            <![CDATA[The title is from Grey’s Anatomy; Meredith is scolding Izzie for ignoring Karev because he cheated on her (spoilers, sorry, but, like, Karev sucks). She says “He’s Dirty Uncle Sal. Who embarrasses everyone at family reunions, and who can’t be left alone with the teenage girls, but you invite him...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[The title is from Grey’s Anatomy; Meredith is scolding Izzie for ignoring Karev because he cheated on her (spoilers, sorry, but, like, Karev sucks). She says “He’s Dirty Uncle Sal. Who embarrasses everyone at family reunions, and who can’t be left alone with the teenage girls, but you invite him to the picnic anyway.”
+
+Sometimes an idea arrives to you fully furnished and meaningful and other times you rip and scratch at your brain to, like, do something useful. This one is the latter. Hope you enjoy!
+
+
+    
+
+Download MP3
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week19_dirtyunclesal.mp3" length="12993723" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[The title is from Grey’s Anatomy; Meredith is scolding Izzie for ignoring Karev because he cheated on her (spoilers, sorry, but, like, Karev sucks). She says “He’s Dirty Uncle Sal. Who embarrasses everyone at family reunions, and who can’t be left alone with the teenage girls, but you invite him...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[The title is from Grey’s Anatomy; Meredith is scolding Izzie for ignoring Karev because he cheated on her (spoilers, sorry, but, like, Karev sucks). She says “He’s Dirty Uncle Sal. Who embarrasses everyone at family reunions, and who can’t be left alone with the teenage girls, but you invite him to the picnic anyway.”
+
+Sometimes an idea arrives to you fully furnished and meaningful and other times you rip and scratch at your brain to, like, do something useful. This one is the latter. Hope you enjoy!
+
+
+    
+
+Download MP3
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>5:06</itunes:duration>
+    </item>
   
     <item>
         <title>Crystal's Birthday Party</title>
