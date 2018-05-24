@@ -3031,6 +3031,8 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 body,
 html {
   text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: grayscale;
   width: 100%;
   margin: 0;
   padding: 0;

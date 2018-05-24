@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 16 May 2018 22:56:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 May 2018 21:02:21 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Dance Party!!!</title>
+        <link>http://seen-saw.com/podcast/dance-party.html</link>
+        <comments>http://seen-saw.com/podcast/dance-party.html#comments</comments>
+        <pubDate>Tue, 22 May 2018 17:00:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[Ska]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/dance-party.html</guid>
+        <description>
+            <![CDATA[This song has been floating around in my life for a while, but it’s gotten new meaning since moving to Las Vegas. I’ve never been a partier; in college I never went to bars unless there was a show that night. In Las Vegas, I’ve been to the most incredible,...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This song has been floating around in my life for a while, but it’s gotten new meaning since moving to Las Vegas. I’ve never been a partier; in college I never went to bars unless there was a show that night. In Las Vegas, I’ve been to the most incredible, well-produced night clubs in the world and I realllllly hate them. They always strike me as sad in a way I can’t place; it’s probably because I feel out of place at them and can’t imagine enjoying them in earnest.
+
+This song is NSFW, it has naughty words and suggestive content. So, bear that mind.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week20_danceparty.mp3" length="5306499" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This song has been floating around in my life for a while, but it’s gotten new meaning since moving to Las Vegas. I’ve never been a partier; in college I never went to bars unless there was a show that night. In Las Vegas, I’ve been to the most incredible,...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This song has been floating around in my life for a while, but it’s gotten new meaning since moving to Las Vegas. I’ve never been a partier; in college I never went to bars unless there was a show that night. In Las Vegas, I’ve been to the most incredible, well-produced night clubs in the world and I realllllly hate them. They always strike me as sad in a way I can’t place; it’s probably because I feel out of place at them and can’t imagine enjoying them in earnest.
+
+This song is NSFW, it has naughty words and suggestive content. So, bear that mind.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:54</itunes:duration>
+    </item>
   
     <item>
         <title>Dirty Uncle Sal</title>
