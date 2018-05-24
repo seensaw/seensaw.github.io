@@ -1,0 +1,5 @@
+ffmpeg -ss 0:15 -i /Users/lgbr/Desktop/video-muxed.mp4 -t 00:15 -c copy out.mp4
+
+ffmpeg -i /Users/lgbr/Desktop/video-muxed.mp4 -vcodec copy -acodec copy -ss 00:00:15 -to 00:00:30 /Users/lgbr/Desktop/1-min.mp4
+
+ffmpeg -ss 00:00:05 -t 15 -i /Users/lgbr/Desktop/video-muxed.mp4 -vcodec copy -acodec copy /Users/lgbr/Desktop/video-muxed-0.mp4
