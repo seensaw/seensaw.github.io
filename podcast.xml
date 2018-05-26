@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 23 May 2018 21:09:06 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 21:55:09 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Shania by Wisdom Tooth</title>
+        <link>http://seen-saw.com/podcast/shania.html</link>
+        <comments>http://seen-saw.com/podcast/shania.html#comments</comments>
+        <pubDate>Thu, 24 May 2018 17:00:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[Ska]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/shania.html</guid>
+        <description>
+            <![CDATA[This is a song that I’ve had in mind to cover for a while. This is by a San Francisco based artist named “Wisdom Tooth” who I was addicted to one summer in 2013. I listed to their music non-stop and became the soundtrack of my senior year. This song...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This is a song that I’ve had in mind to cover for a while. This is by a San Francisco based artist named “Wisdom Tooth” who I was addicted to one summer in 2013. I listed to their music non-stop and became the soundtrack of my senior year. This song specifically has always stuck with me because I grew up in a country music household and it describes my relationship to my family better than I probably could.
+
+So, this song goes out to Meagan Day; thanks for the music.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week20.5_shania.mp3" length="10778517" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This is a song that I’ve had in mind to cover for a while. This is by a San Francisco based artist named “Wisdom Tooth” who I was addicted to one summer in 2013. I listed to their music non-stop and became the soundtrack of my senior year. This song...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This is a song that I’ve had in mind to cover for a while. This is by a San Francisco based artist named “Wisdom Tooth” who I was addicted to one summer in 2013. I listed to their music non-stop and became the soundtrack of my senior year. This song specifically has always stuck with me because I grew up in a country music household and it describes my relationship to my family better than I probably could.
+
+So, this song goes out to Meagan Day; thanks for the music.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>4:11</itunes:duration>
+    </item>
   
     <item>
         <title>Dance Party!!!</title>
