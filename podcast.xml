@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Fri, 25 May 2018 22:01:14 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 14:15:57 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -751,7 +751,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week7_millennial_freelancer_blues.mp3" length="2452791" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week7_millennial_freelancer_blues.mp3" length="2512343" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Happy Valentines Day, everyone! And as a gift, I’ve provided a 35 second hardcore punk song with a lot more screaming than some of you will want. Enjoy!
 
 ]]></itunes:subtitle>
@@ -766,7 +766,7 @@ Download MP3
         <itunes:author>Logan Sorese</itunes:author>
         <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:duration>0:43</itunes:duration>
+        <itunes:duration>0:44</itunes:duration>
     </item>
   
     <item>
