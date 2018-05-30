@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 27 May 2018 14:46:33 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 23:45:41 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>A Happy Afterlife</title>
+        <link>http://seen-saw.com/podcast/have-a-happy-afterlife.html</link>
+        <comments>http://seen-saw.com/podcast/have-a-happy-afterlife.html#comments</comments>
+        <pubDate>Mon, 28 May 2018 17:00:00 -0700</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[cover]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/have-a-happy-afterlife.html</guid>
+        <description>
+            <![CDATA[If there’s one thing I’ve learned in the process of doing this project, it’s that I’m learning to love my flaws. Or at least tolerate them. I’m not a natural born poet or a great singer. I’m not a trained anything; I’m a guy with an interest in getting better...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[If there’s one thing I’ve learned in the process of doing this project, it’s that I’m learning to love my flaws. Or at least tolerate them. I’m not a natural born poet or a great singer. I’m not a trained anything; I’m a guy with an interest in getting better at music. I don’t want to be famous, I just don’t want to die having given up on the one thing I liked the most.
+
+I wrote this song twice. The first time it was a weirdly fast folk song and I didn’t like where it went. Maybe I’ll release that later this year as an addendum. Anyway, enjoy.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week21_ahappyafterlife.mp3" length="11848494" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[If there’s one thing I’ve learned in the process of doing this project, it’s that I’m learning to love my flaws. Or at least tolerate them. I’m not a natural born poet or a great singer. I’m not a trained anything; I’m a guy with an interest in getting better...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[If there’s one thing I’ve learned in the process of doing this project, it’s that I’m learning to love my flaws. Or at least tolerate them. I’m not a natural born poet or a great singer. I’m not a trained anything; I’m a guy with an interest in getting better at music. I don’t want to be famous, I just don’t want to die having given up on the one thing I liked the most.
+
+I wrote this song twice. The first time it was a weirdly fast folk song and I didn’t like where it went. Maybe I’ll release that later this year as an addendum. Anyway, enjoy.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>4:37</itunes:duration>
+    </item>
   
     <item>
         <title>Shania by Wisdom Tooth</title>
