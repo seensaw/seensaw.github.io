@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/the-wasache-mountains.html</loc>
+      
+        <lastmod>2018-06-07T17:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/have-a-happy-afterlife.html</loc>
       
         <lastmod>2018-05-28T17:00:00-07:00</lastmod>
@@ -351,7 +366,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-05-29T23:45:41-07:00</lastmod>
+        <lastmod>2018-06-08T10:35:28-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -366,7 +381,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-05-29T23:45:41-07:00</lastmod>
+        <lastmod>2018-06-08T10:35:28-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -381,7 +396,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-05-29T23:45:41-07:00</lastmod>
+        <lastmod>2018-06-08T10:35:28-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
