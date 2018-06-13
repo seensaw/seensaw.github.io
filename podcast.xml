@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 13 Jun 2018 12:28:18 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 12:33:03 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -49,14 +49,16 @@
         <category><![CDATA[podcast]]></category>
     
     
+        <category><![CDATA[punk]]></category>
+    
         <guid isPermaLink="true">http://seen-saw.com/podcast/disappointing-but-sexy.html</guid>
         <description>
-            <![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I screamed over it anyway.
+            <![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I used it anyway.
 
 ]]>
         </description>
         <content:encoded>
-            <![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I screamed over it anyway.
+            <![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I used it anyway.
 
 This song is about an acquaintance who is obsessed with partying, fame, and living a glamorous lifestyle even if, admittedly, it means dying young and alienating people. This song is not so much about their life, but imagining what my life would look like if I decided to live that way.
 
@@ -68,10 +70,10 @@ Download MP3
 ]]>
         </content:encoded>
         <enclosure url="http://seen-saw.com/audio/week23_disappointingbutsexy.mp3" length="6138108" type="audio/mpeg" />
-        <itunes:subtitle><![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I screamed over it anyway.
+        <itunes:subtitle><![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I used it anyway.
 
 ]]></itunes:subtitle>
-        <itunes:summary><![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I screamed over it anyway.
+        <itunes:summary><![CDATA[Hello! I really wanted to make a hardcore song this week, but all I could come up with was this sweet funk lick. Soooo, I used it anyway.
 
 This song is about an acquaintance who is obsessed with partying, fame, and living a glamorous lifestyle even if, admittedly, it means dying young and alienating people. This song is not so much about their life, but imagining what my life would look like if I decided to live that way.
 
@@ -96,6 +98,8 @@ Download MP3
     
         <category><![CDATA[podcast]]></category>
     
+    
+        <category><![CDATA[folk]]></category>
     
         <guid isPermaLink="true">http://seen-saw.com/podcast/the-wasache-mountains.html</guid>
         <description>
