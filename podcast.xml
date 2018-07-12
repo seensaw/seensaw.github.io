@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 11 Jul 2018 22:55:50 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 22:58:26 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -49,7 +49,7 @@
         <category><![CDATA[podcast]]></category>
     
     
-        <category><![CDATA[Folk]]></category>
+        <category><![CDATA[folk]]></category>
     
         <guid isPermaLink="true">http://seen-saw.com/podcast/freeknittingclasspt2.html</guid>
         <description>
@@ -91,7 +91,7 @@ Download MP3
         <category><![CDATA[podcast]]></category>
     
     
-        <category><![CDATA[Punk]]></category>
+        <category><![CDATA[punk]]></category>
     
         <guid isPermaLink="true">http://seen-saw.com/podcast/freeknittingclasspt1.html</guid>
         <description>
