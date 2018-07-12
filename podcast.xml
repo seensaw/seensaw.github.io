@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Mon, 09 Jul 2018 13:53:17 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 22:53:56 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,6 +40,48 @@
     </itunes:category>
   
     <item>
+        <title>Free Knitting Class Pt 2.</title>
+        <link>http://seen-saw.com/podcast/freeknittingclasspt2.html</link>
+        <comments>http://seen-saw.com/podcast/freeknittingclasspt2.html#comments</comments>
+        <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[Folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/freeknittingclasspt2.html</guid>
+        <description>
+            <![CDATA[Pt. 2 of Free Knitting Class came sooner than I thought. These words have been in the back of my head for a while, but it took a good therapy session this week and a lot of shitty hands of fate to make them make sense. I’m halfway through this...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Pt. 2 of Free Knitting Class came sooner than I thought. These words have been in the back of my head for a while, but it took a good therapy session this week and a lot of shitty hands of fate to make them make sense. I’m halfway through this project and I’m not any closer to knowing what the fuck I’m supposed to be doing.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week27_freeknittingclasspt2.mp3" length="10540347" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Pt. 2 of Free Knitting Class came sooner than I thought. These words have been in the back of my head for a while, but it took a good therapy session this week and a lot of shitty hands of fate to make them make sense. I’m halfway through this...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Pt. 2 of Free Knitting Class came sooner than I thought. These words have been in the back of my head for a while, but it took a good therapy session this week and a lot of shitty hands of fate to make them make sense. I’m halfway through this project and I’m not any closer to knowing what the fuck I’m supposed to be doing.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>4:05</itunes:duration>
+    </item>
+  
+    <item>
         <title>Free Knitting Class Pt 1.</title>
         <link>http://seen-saw.com/podcast/freeknittingclasspt1.html</link>
         <comments>http://seen-saw.com/podcast/freeknittingclasspt1.html#comments</comments>
@@ -49,7 +91,7 @@
         <category><![CDATA[podcast]]></category>
     
     
-        <category><![CDATA[pop]]></category>
+        <category><![CDATA[Punk]]></category>
     
         <guid isPermaLink="true">http://seen-saw.com/podcast/freeknittingclasspt1.html</guid>
         <description>
@@ -67,7 +109,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week26_freeknittingclasspt1.mp3" length="3225979" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week26_freeknittingclasspt1.mp3" length="3226061" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Happy Anniversary, America. Chill out with the illegal fireworks. Anyway, here’s Part 1 of “Free Knitting Class”. Some week in the future is Part 2.
 
 ]]></itunes:subtitle>
