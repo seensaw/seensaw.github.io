@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 18 Jul 2018 18:23:27 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 18:26:05 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,48 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Magnolium by GIMP</title>
+        <link>http://seen-saw.com/podcast/magnolium.html</link>
+        <comments>http://seen-saw.com/podcast/magnolium.html#comments</comments>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[metal]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/magnolium.html</guid>
+        <description>
+            <![CDATA[I can almost guarantee this song is not for you. This is a song for a cover album of the band GIMP that’s been delayed for literal years. It may never come out. Magnolium is, for sure, the worst song on the album, so I decided to do the the...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[I can almost guarantee this song is not for you. This is a song for a cover album of the band GIMP that’s been delayed for literal years. It may never come out. Magnolium is, for sure, the worst song on the album, so I decided to do the the worst cover of it. It’s kind of like The Chariot, but if Josh Scogin wasn’t Christian and more disappointing.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week28_magnolium.mp3" length="6734738" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[I can almost guarantee this song is not for you. This is a song for a cover album of the band GIMP that’s been delayed for literal years. It may never come out. Magnolium is, for sure, the worst song on the album, so I decided to do the the...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[I can almost guarantee this song is not for you. This is a song for a cover album of the band GIMP that’s been delayed for literal years. It may never come out. Magnolium is, for sure, the worst song on the album, so I decided to do the the worst cover of it. It’s kind of like The Chariot, but if Josh Scogin wasn’t Christian and more disappointing.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:30</itunes:duration>
+    </item>
   
     <item>
         <title>Free Knitting Class Pt 2.</title>
