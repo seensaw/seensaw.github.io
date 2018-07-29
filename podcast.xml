@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 18 Jul 2018 18:40:10 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 19:42:27 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>True Compass</title>
+        <link>http://seen-saw.com/podcast/true-compass.html</link>
+        <comments>http://seen-saw.com/podcast/true-compass.html#comments</comments>
+        <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/true-compass.html</guid>
+        <description>
+            <![CDATA[This track is about trying to control tendencies towards violence. I have anger issues that have been lovingly passed down from my dad. It’s not my favorite hand-me-down, but here we are.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This track is about trying to control tendencies towards violence. I have anger issues that have been lovingly passed down from my dad. It’s not my favorite hand-me-down, but here we are.
+
+Spent the last week with Jon and John, my best friends from High School/College. We learned pretty quickly that we’re officially old in a myriad of ways. I feel pretty old recently; half-marathon training is harder than it was 5 years ago and I can’t drink without really paying for it the next morning. ‘tis life.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week29_truecompass.mp3" length="3522717" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This track is about trying to control tendencies towards violence. I have anger issues that have been lovingly passed down from my dad. It’s not my favorite hand-me-down, but here we are.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This track is about trying to control tendencies towards violence. I have anger issues that have been lovingly passed down from my dad. It’s not my favorite hand-me-down, but here we are.
+
+Spent the last week with Jon and John, my best friends from High School/College. We learned pretty quickly that we’re officially old in a myriad of ways. I feel pretty old recently; half-marathon training is harder than it was 5 years ago and I can’t drink without really paying for it the next morning. ‘tis life.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:09</itunes:duration>
+    </item>
   
     <item>
         <title>Magnolium by GIMP</title>
