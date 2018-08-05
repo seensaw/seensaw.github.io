@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/losing-you.html</loc>
+      
+        <lastmod>2018-08-03T17:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/true-compass.html</loc>
       
         <lastmod>2018-07-27T17:00:00-07:00</lastmod>
@@ -471,7 +486,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-07-29T09:18:17-07:00</lastmod>
+        <lastmod>2018-08-04T21:58:13-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -486,7 +501,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-07-29T09:18:17-07:00</lastmod>
+        <lastmod>2018-08-04T21:58:13-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -501,7 +516,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-07-29T09:18:17-07:00</lastmod>
+        <lastmod>2018-08-04T21:58:13-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

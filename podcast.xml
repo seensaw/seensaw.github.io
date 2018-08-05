@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 29 Jul 2018 09:18:17 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 04 Aug 2018 21:58:13 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Losing You</title>
+        <link>http://seen-saw.com/podcast/losing-you.html</link>
+        <comments>http://seen-saw.com/podcast/losing-you.html#comments</comments>
+        <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/losing-you.html</guid>
+        <description>
+            <![CDATA[This week’s been weird. I’m working a lot and running a lot, but all I want to do is write music. Music didn’t feel that way last year; it felt like a thing I did for fun. Now it feels like it runs my life – possibly in a good way....]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This week’s been weird. I’m working a lot and running a lot, but all I want to do is write music. Music didn’t feel that way last year; it felt like a thing I did for fun. Now it feels like it runs my life – possibly in a good way. Send my music to your friends, I wanna quit my job.
+
+Anyway, this is an old noise track given new life. Also, inexplicably, about heaven’s gate. I’m gettin’ very cult-y lately.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week30_losingyou.mp3" length="6138095" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This week’s been weird. I’m working a lot and running a lot, but all I want to do is write music. Music didn’t feel that way last year; it felt like a thing I did for fun. Now it feels like it runs my life – possibly in a good way....]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This week’s been weird. I’m working a lot and running a lot, but all I want to do is write music. Music didn’t feel that way last year; it felt like a thing I did for fun. Now it feels like it runs my life – possibly in a good way. Send my music to your friends, I wanna quit my job.
+
+Anyway, this is an old noise track given new life. Also, inexplicably, about heaven’s gate. I’m gettin’ very cult-y lately.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:15</itunes:duration>
+    </item>
   
     <item>
         <title>True Compass</title>
