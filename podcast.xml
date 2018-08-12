@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 05 Aug 2018 14:30:55 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 18:38:52 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Losing You</title>
+        <link>http://seen-saw.com/podcast/life-is-strange.html</link>
+        <comments>http://seen-saw.com/podcast/life-is-strange.html#comments</comments>
+        <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[ballad]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/life-is-strange.html</guid>
+        <description>
+            <![CDATA[“That’s why we’ll always love you, Yankee Rose.”
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[“That’s why we’ll always love you, Yankee Rose.”
+
+This song has been brewing a while, but I finally got it out of me this week.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week31_lifeistrange.mp3" length="8459863" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[“That’s why we’ll always love you, Yankee Rose.”
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[“That’s why we’ll always love you, Yankee Rose.”
+
+This song has been brewing a while, but I finally got it out of me this week.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:13</itunes:duration>
+    </item>
   
     <item>
         <title>Losing You</title>
