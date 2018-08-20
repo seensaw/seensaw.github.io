@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/jon-benet-john-stamos-john-316.html</loc>
+      
+        <lastmod>2018-08-18T17:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/life-is-strange.html</loc>
       
         <lastmod>2018-08-10T17:00:00-07:00</lastmod>
@@ -501,7 +516,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-08-11T18:41:46-07:00</lastmod>
+        <lastmod>2018-08-19T21:38:50-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -516,7 +531,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-08-11T18:41:46-07:00</lastmod>
+        <lastmod>2018-08-19T21:38:50-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -531,7 +546,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-08-11T18:41:46-07:00</lastmod>
+        <lastmod>2018-08-19T21:38:50-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

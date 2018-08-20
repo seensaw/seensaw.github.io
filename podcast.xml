@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sat, 11 Aug 2018 18:41:46 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Aug 2018 21:38:50 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>JonBenét, John Stamos, John 3:16</title>
+        <link>http://seen-saw.com/podcast/jon-benet-john-stamos-john-316.html</link>
+        <comments>http://seen-saw.com/podcast/jon-benet-john-stamos-john-316.html#comments</comments>
+        <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/jon-benet-john-stamos-john-316.html</guid>
+        <description>
+            <![CDATA[Another week, another song. I’m losing gusto, y’all. No just with songs, but with everything in general. I’m working a lot, running a lot, recording a lot and generally just doing a lot. That’s a good thing, normally, but I’ve been really prone to burnout this year. This is my...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Another week, another song. I’m losing gusto, y’all. No just with songs, but with everything in general. I’m working a lot, running a lot, recording a lot and generally just doing a lot. That’s a good thing, normally, but I’ve been really prone to burnout this year. This is my 4th or 5th burnout this year, which can’t be good for my heart.
+
+I’m going to a 5 day meditation retreat this week to serve and share my love of meditation by cooking good vegan food and cleaning bathrooms. I can’t complain because someone did the same for me earlier this year. So, hopefully meditating 3 hours a day for a couple of days will do me a lot of good.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week32_jbjsj316.mp3" length="4057726" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Another week, another song. I’m losing gusto, y’all. No just with songs, but with everything in general. I’m working a lot, running a lot, recording a lot and generally just doing a lot. That’s a good thing, normally, but I’ve been really prone to burnout this year. This is my...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Another week, another song. I’m losing gusto, y’all. No just with songs, but with everything in general. I’m working a lot, running a lot, recording a lot and generally just doing a lot. That’s a good thing, normally, but I’ve been really prone to burnout this year. This is my 4th or 5th burnout this year, which can’t be good for my heart.
+
+I’m going to a 5 day meditation retreat this week to serve and share my love of meditation by cooking good vegan food and cleaning bathrooms. I can’t complain because someone did the same for me earlier this year. So, hopefully meditating 3 hours a day for a couple of days will do me a lot of good.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:23</itunes:duration>
+    </item>
   
     <item>
         <title>Life is Strange</title>
