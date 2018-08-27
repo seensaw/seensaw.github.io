@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 19 Aug 2018 21:41:02 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 20:37:08 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>First Person View</title>
+        <link>http://seen-saw.com/podcast/first-person-view.html</link>
+        <comments>http://seen-saw.com/podcast/first-person-view.html#comments</comments>
+        <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/first-person-view.html</guid>
+        <description>
+            <![CDATA[I went on the retreat. It was difficult and wonderful and I need more of it in my life, but for now I need to sleep.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[I went on the retreat. It was difficult and wonderful and I need more of it in my life, but for now I need to sleep.
+
+This song was written in my head over the span of the retreat, scribbled, once again, on contraband paper – maybe on next year’s retreat I’ll actually follow the rules and not hide a notebook.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week33_firstpersonview.mp3" length="5292452" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[I went on the retreat. It was difficult and wonderful and I need more of it in my life, but for now I need to sleep.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[I went on the retreat. It was difficult and wonderful and I need more of it in my life, but for now I need to sleep.
+
+This song was written in my head over the span of the retreat, scribbled, once again, on contraband paper – maybe on next year’s retreat I’ll actually follow the rules and not hide a notebook.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:12</itunes:duration>
+    </item>
   
     <item>
         <title>JonBenet, John Stamos, John 3:16</title>
