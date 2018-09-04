@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/cutekiddeadsquirrel.html</loc>
+      
+        <lastmod>2018-09-03T17:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/first-person-view.html</loc>
       
         <lastmod>2018-08-25T17:00:00-07:00</lastmod>
@@ -531,7 +546,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-08-26T20:37:08-07:00</lastmod>
+        <lastmod>2018-09-04T07:48:06-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -546,7 +561,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-08-26T20:37:08-07:00</lastmod>
+        <lastmod>2018-09-04T07:48:06-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -561,7 +576,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-08-26T20:37:08-07:00</lastmod>
+        <lastmod>2018-09-04T07:48:06-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
