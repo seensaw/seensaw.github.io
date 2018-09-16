@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 09 Sep 2018 22:49:26 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 15:47:04 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>maybe</title>
+        <link>http://seen-saw.com/podcast/maybe.html</link>
+        <comments>http://seen-saw.com/podcast/maybe.html#comments</comments>
+        <pubDate>Sun, 16 Sep 2018 15:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/maybe.html</guid>
+        <description>
+            <![CDATA[Another week, another song. Enjoy.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[Another week, another song. Enjoy.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week36_maybe.mp3" length="5008555" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[Another week, another song. Enjoy.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Another week, another song. Enjoy.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:46</itunes:duration>
+    </item>
   
     <item>
         <title>Grow Your Hair Out</title>
@@ -67,7 +113,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week35_growyourhairout.mp3" length="6990694" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week35_growyourhairout.mp3" length="7719108" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Not much to say except this track has a surprise midway. So, make sure to listen the whole way. Enjoy.
 
 ]]></itunes:subtitle>
