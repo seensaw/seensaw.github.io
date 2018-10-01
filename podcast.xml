@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 23 Sep 2018 13:37:23 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 08:45:26 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>This is NPR</title>
+        <link>http://seen-saw.com/podcast/this-is-npr.html</link>
+        <comments>http://seen-saw.com/podcast/this-is-npr.html#comments</comments>
+        <pubDate>Mon, 01 Oct 2018 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[metal]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/this-is-npr.html</guid>
+        <description>
+            <![CDATA[When I write music, I forget about everything else. There are very few things that do this to me; not even meditation most of the time (Sorry, Goenkaji). It’s a miracle in my life that I’m able to do this without trying too hard. Some would say that means I...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[When I write music, I forget about everything else. There are very few things that do this to me; not even meditation most of the time (Sorry, Goenkaji). It’s a miracle in my life that I’m able to do this without trying too hard. Some would say that means I should try harder, but you know, I like that’s it’s a miracle. If I try too hard, it becomes a job. But I want it to be a goddamned miracle.
+
+This is a metal song, a la The Chariot. Enjoy.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week38_thisisnpr.mp3" length="4592691" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[When I write music, I forget about everything else. There are very few things that do this to me; not even meditation most of the time (Sorry, Goenkaji). It’s a miracle in my life that I’m able to do this without trying too hard. Some would say that means I...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[When I write music, I forget about everything else. There are very few things that do this to me; not even meditation most of the time (Sorry, Goenkaji). It’s a miracle in my life that I’m able to do this without trying too hard. Some would say that means I should try harder, but you know, I like that’s it’s a miracle. If I try too hard, it becomes a job. But I want it to be a goddamned miracle.
+
+This is a metal song, a la The Chariot. Enjoy.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:36</itunes:duration>
+    </item>
   
     <item>
         <title>The Compassionate Bug Catcher</title>
@@ -65,7 +111,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week37_thecompassionatebugcatcher.mp3" length="9929709" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week37_thecompassionatebugcatcher.mp3" length="10659387" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[“Faith is not superficial or sentimental. It doesn’t say everything will turn out all right, according to our wishes. Life is not likely to deliver only pleasant events. Faith entails the understanding that we don’t know how things will turn out. Faith allows us to claim the possibility that a...]]></itunes:subtitle>
         <itunes:summary><![CDATA[“Faith is not superficial or sentimental.  It doesn’t say everything will turn out all right, according to our wishes.  Life is not likely to deliver only pleasant events.  Faith entails the understanding that we don’t know how things will turn out.  Faith allows us to claim the possibility that a helping hand will reach out to us.  Have faith in our own innate goodness and capacity to love.” – Sharon Salzburg
 
