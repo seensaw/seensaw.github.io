@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/lucy-rose.html</loc>
+      
+        <lastmod>2018-10-09T03:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/this-is-npr.html</loc>
       
         <lastmod>2018-10-01T03:00:00-07:00</lastmod>
@@ -606,7 +621,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-10-01T08:45:26-07:00</lastmod>
+        <lastmod>2018-10-09T18:19:58-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -621,7 +636,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-10-01T08:45:26-07:00</lastmod>
+        <lastmod>2018-10-09T18:19:58-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -636,7 +651,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-10-01T08:45:26-07:00</lastmod>
+        <lastmod>2018-10-09T18:19:58-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

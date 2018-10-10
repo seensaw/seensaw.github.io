@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Mon, 01 Oct 2018 08:45:26 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 18:19:58 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Lucy Rose</title>
+        <link>http://seen-saw.com/podcast/lucy-rose.html</link>
+        <comments>http://seen-saw.com/podcast/lucy-rose.html#comments</comments>
+        <pubDate>Tue, 09 Oct 2018 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[ballad]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/lucy-rose.html</guid>
+        <description>
+            <![CDATA[This song is for a person I haven’t met yet and for the two wonderful people who will give that mystery person a home. Too opaque? Rachel and Bryan are having a baby and it’s amazing. They’re going to be great and imperfect and just what the doctor ordered. I...]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This song is for a person I haven’t met yet and for the two wonderful people who will give that mystery person a home. Too opaque? Rachel and Bryan are having a baby and it’s amazing. They’re going to be great and imperfect and just what the doctor ordered. I know it.
+
+This is also the first song recorded from my new house. This is the house where we’ll bring home a kid of our own someday. Life is strange, y’all. Enjoy.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week39_lucyrose.mp3" length="9989268" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This song is for a person I haven’t met yet and for the two wonderful people who will give that mystery person a home. Too opaque? Rachel and Bryan are having a baby and it’s amazing. They’re going to be great and imperfect and just what the doctor ordered. I...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This song is for a person I haven’t met yet and for the two wonderful people who will give that mystery person a home. Too opaque? Rachel and Bryan are having a baby and it’s amazing. They’re going to be great and imperfect and just what the doctor ordered. I know it.
+
+This is also the first song recorded from my new house. This is the house where we’ll bring home a kid of our own someday. Life is strange, y’all. Enjoy.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>4:09</itunes:duration>
+    </item>
   
     <item>
         <title>This is NPR</title>
