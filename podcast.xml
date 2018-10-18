@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 10 Oct 2018 06:21:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 21:43:45 -0700</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Oh, Susanna!</title>
+        <link>http://seen-saw.com/podcast/oh-susanna.html</link>
+        <comments>http://seen-saw.com/podcast/oh-susanna.html#comments</comments>
+        <pubDate>Wed, 17 Oct 2018 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/oh-susanna.html</guid>
+        <description>
+            <![CDATA[40 weeks in? There are 40 songs on this website? What kind of crazy horseshit is that?
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[40 weeks in? There are 40 songs on this website? What kind of crazy horseshit is that?
+
+Anyway, this is a song about unrequited love, I think. The person this song is talking to is probably not having a great time or totally knows how to get out of this situation. Glad I’m not them.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week40_ohsusanna.mp3" length="4771369" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[40 weeks in? There are 40 songs on this website? What kind of crazy horseshit is that?
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[40 weeks in? There are 40 songs on this website? What kind of crazy horseshit is that?
+
+Anyway, this is a song about unrequited love, I think. The person this song is talking to is probably not having a great time or totally knows how to get out of this situation. Glad I’m not them.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:41</itunes:duration>
+    </item>
   
     <item>
         <title>Lucy Rose</title>
