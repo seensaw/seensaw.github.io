@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Fri, 26 Oct 2018 17:20:15 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Nov 2018 20:33:57 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Dear Camera, I Wish to be Tall</title>
+        <link>http://seen-saw.com/podcast/dear-camera-i-wish-to-be-tall.html</link>
+        <comments>http://seen-saw.com/podcast/dear-camera-i-wish-to-be-tall.html#comments</comments>
+        <pubDate>Sun, 04 Nov 2018 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/dear-camera-i-wish-to-be-tall.html</guid>
+        <description>
+            <![CDATA[“Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.”
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[“Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.”
+
+― Neil Postman
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week42_dearcameraiwishtobetall.mp3" length="5148683" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[“Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.”
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[“Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.”
+
+― Neil Postman
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>1:50</itunes:duration>
+    </item>
   
     <item>
         <title>Holy Ghost</title>
@@ -69,7 +119,7 @@ Download MP3
 
 ]]>
         </content:encoded>
-        <enclosure url="http://seen-saw.com/audio/week41_holyghost.mp3" length="6421987" type="audio/mpeg" />
+        <enclosure url="http://seen-saw.com/audio/week41_holyghost.mp3" length="7151713" type="audio/mpeg" />
         <itunes:subtitle><![CDATA[Happy Nevada Day? Ne-vah-da. Ne-vaa-duh. I’ll never be a local.
 
 ]]></itunes:subtitle>
