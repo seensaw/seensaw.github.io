@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Sun, 04 Nov 2018 20:33:57 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 20:05:55 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,10 +40,60 @@
     </itunes:category>
   
     <item>
+        <title>One of the Lucky Ones</title>
+        <link>http://seen-saw.com/podcast/one-of-the-lucky-ones.html</link>
+        <comments>http://seen-saw.com/podcast/one-of-the-lucky-ones.html#comments</comments>
+        <pubDate>Tue, 13 Nov 2018 02:00:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[ukulele]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/one-of-the-lucky-ones.html</guid>
+        <description>
+            <![CDATA[A friend of mine did a bad thing. A very bad thing. This song is me, I think, trying to sort out how I feel about it. Enjoy.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[A friend of mine did a bad thing. A very bad thing. This song is me, I think, trying to sort out how I feel about it. Enjoy.
+
+Also, my adjusted goal is 50 songs by New Years. Then this project is OVER. 7 more and then I’M FREE, BABY.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week43_oneoftheluckyones.mp3" length="5709366" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[A friend of mine did a bad thing. A very bad thing. This song is me, I think, trying to sort out how I feel about it. Enjoy.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[A friend of mine did a bad thing. A very bad thing. This song is me, I think, trying to sort out how I feel about it. Enjoy.
+
+Also, my adjusted goal is 50 songs by New Years. Then this project is OVER. 7 more and then I’M FREE, BABY.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:22</itunes:duration>
+    </item>
+  
+    <item>
         <title>Dear Camera, I Wish to be Tall</title>
         <link>http://seen-saw.com/podcast/dear-camera-i-wish-to-be-tall.html</link>
         <comments>http://seen-saw.com/podcast/dear-camera-i-wish-to-be-tall.html#comments</comments>
-        <pubDate>Sun, 04 Nov 2018 10:00:00 +0000</pubDate>
+        <pubDate>Sun, 04 Nov 2018 02:00:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -93,7 +143,7 @@ Download MP3
         <title>Holy Ghost</title>
         <link>http://seen-saw.com/podcast/holy-ghost.html</link>
         <comments>http://seen-saw.com/podcast/holy-ghost.html#comments</comments>
-        <pubDate>Fri, 26 Oct 2018 10:00:00 +0000</pubDate>
+        <pubDate>Fri, 26 Oct 2018 03:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -143,7 +193,7 @@ Download MP3
         <title>Oh, Susanna!</title>
         <link>http://seen-saw.com/podcast/oh-susanna.html</link>
         <comments>http://seen-saw.com/podcast/oh-susanna.html#comments</comments>
-        <pubDate>Wed, 17 Oct 2018 10:00:00 +0000</pubDate>
+        <pubDate>Wed, 17 Oct 2018 03:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -193,7 +243,7 @@ Download MP3
         <title>Lucy Rose</title>
         <link>http://seen-saw.com/podcast/lucy-rose.html</link>
         <comments>http://seen-saw.com/podcast/lucy-rose.html#comments</comments>
-        <pubDate>Tue, 09 Oct 2018 10:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Oct 2018 03:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -239,7 +289,7 @@ Download MP3
         <title>This is NPR</title>
         <link>http://seen-saw.com/podcast/this-is-npr.html</link>
         <comments>http://seen-saw.com/podcast/this-is-npr.html#comments</comments>
-        <pubDate>Mon, 01 Oct 2018 10:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Oct 2018 03:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -285,7 +335,7 @@ Download MP3
         <title>The Compassionate Bug Catcher</title>
         <link>http://seen-saw.com/podcast/thecompassionatebugcatcher.html</link>
         <comments>http://seen-saw.com/podcast/thecompassionatebugcatcher.html#comments</comments>
-        <pubDate>Sun, 23 Sep 2018 15:00:00 +0000</pubDate>
+        <pubDate>Sun, 23 Sep 2018 08:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -327,7 +377,7 @@ Download MP3
         <title>maybe</title>
         <link>http://seen-saw.com/podcast/maybe.html</link>
         <comments>http://seen-saw.com/podcast/maybe.html#comments</comments>
-        <pubDate>Sun, 16 Sep 2018 15:00:00 +0000</pubDate>
+        <pubDate>Sun, 16 Sep 2018 08:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -373,7 +423,7 @@ Download MP3
         <title>Grow Your Hair Out</title>
         <link>http://seen-saw.com/podcast/grow-your-hair-out.html</link>
         <comments>http://seen-saw.com/podcast/grow-your-hair-out.html#comments</comments>
-        <pubDate>Sun, 09 Sep 2018 15:00:00 +0000</pubDate>
+        <pubDate>Sun, 09 Sep 2018 08:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -419,7 +469,7 @@ Download MP3
         <title>Cute Girl, Dead Squirrel</title>
         <link>http://seen-saw.com/podcast/cutekiddeadsquirrel.html</link>
         <comments>http://seen-saw.com/podcast/cutekiddeadsquirrel.html#comments</comments>
-        <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 03 Sep 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -469,7 +519,7 @@ Download MP3
         <title>First Person View</title>
         <link>http://seen-saw.com/podcast/first-person-view.html</link>
         <comments>http://seen-saw.com/podcast/first-person-view.html#comments</comments>
-        <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 25 Aug 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -519,7 +569,7 @@ Download MP3
         <title>JonBenet, John Stamos, John 3:16</title>
         <link>http://seen-saw.com/podcast/jon-benet-john-stamos-john-316.html</link>
         <comments>http://seen-saw.com/podcast/jon-benet-john-stamos-john-316.html#comments</comments>
-        <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 18 Aug 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -565,7 +615,7 @@ Download MP3
         <title>Life is Strange</title>
         <link>http://seen-saw.com/podcast/life-is-strange.html</link>
         <comments>http://seen-saw.com/podcast/life-is-strange.html#comments</comments>
-        <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 10 Aug 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -615,7 +665,7 @@ Download MP3
         <title>Losing You</title>
         <link>http://seen-saw.com/podcast/losing-you.html</link>
         <comments>http://seen-saw.com/podcast/losing-you.html#comments</comments>
-        <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 03 Aug 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -661,7 +711,7 @@ Download MP3
         <title>True Compass</title>
         <link>http://seen-saw.com/podcast/true-compass.html</link>
         <comments>http://seen-saw.com/podcast/true-compass.html#comments</comments>
-        <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 27 Jul 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -707,7 +757,7 @@ Download MP3
         <title>Magnolium by GIMP</title>
         <link>http://seen-saw.com/podcast/magnolium.html</link>
         <comments>http://seen-saw.com/podcast/magnolium.html#comments</comments>
-        <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Jul 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -749,7 +799,7 @@ Download MP3
         <title>Free Knitting Class Pt 2.</title>
         <link>http://seen-saw.com/podcast/freeknittingclasspt2.html</link>
         <comments>http://seen-saw.com/podcast/freeknittingclasspt2.html#comments</comments>
-        <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 10 Jul 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -791,7 +841,7 @@ Download MP3
         <title>Free Knitting Class Pt 1.</title>
         <link>http://seen-saw.com/podcast/freeknittingclasspt1.html</link>
         <comments>http://seen-saw.com/podcast/freeknittingclasspt1.html#comments</comments>
-        <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 03 Jul 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -837,7 +887,7 @@ Download MP3
         <title>A Healthy Appetite</title>
         <link>http://seen-saw.com/podcast/ahealthyappetite.html</link>
         <comments>http://seen-saw.com/podcast/ahealthyappetite.html#comments</comments>
-        <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 26 Jun 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -883,7 +933,7 @@ Download MP3
         <title>We Have Choices</title>
         <link>http://seen-saw.com/podcast/we-have-choices.html</link>
         <comments>http://seen-saw.com/podcast/we-have-choices.html#comments</comments>
-        <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 18 Jun 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -933,7 +983,7 @@ Download MP3
         <title>Disappointing, but Sexy</title>
         <link>http://seen-saw.com/podcast/disappointing-but-sexy.html</link>
         <comments>http://seen-saw.com/podcast/disappointing-but-sexy.html#comments</comments>
-        <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 Jun 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -983,7 +1033,7 @@ Download MP3
         <title>The Wasatch Mountains</title>
         <link>http://seen-saw.com/podcast/the-wasache-mountains.html</link>
         <comments>http://seen-saw.com/podcast/the-wasache-mountains.html#comments</comments>
-        <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 Jun 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1029,7 +1079,7 @@ Download MP3
         <title>A Happy Afterlife</title>
         <link>http://seen-saw.com/podcast/have-a-happy-afterlife.html</link>
         <comments>http://seen-saw.com/podcast/have-a-happy-afterlife.html#comments</comments>
-        <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 28 May 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1075,7 +1125,7 @@ Download MP3
         <title>Shania by Wisdom Tooth</title>
         <link>http://seen-saw.com/podcast/shania.html</link>
         <comments>http://seen-saw.com/podcast/shania.html#comments</comments>
-        <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 24 May 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1121,7 +1171,7 @@ Download MP3
         <title>Dance Party!!!</title>
         <link>http://seen-saw.com/podcast/dance-party.html</link>
         <comments>http://seen-saw.com/podcast/dance-party.html#comments</comments>
-        <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 22 May 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1167,7 +1217,7 @@ Download MP3
         <title>Dirty Uncle Sal</title>
         <link>http://seen-saw.com/podcast/sad-uncle-sal.html</link>
         <comments>http://seen-saw.com/podcast/sad-uncle-sal.html#comments</comments>
-        <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 15 May 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1213,7 +1263,7 @@ Download MP3
         <title>Crystal's Birthday Party</title>
         <link>http://seen-saw.com/podcast/crystals-birthday-party.html</link>
         <comments>http://seen-saw.com/podcast/crystals-birthday-party.html#comments</comments>
-        <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 08 May 2018 17:00:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1263,7 +1313,7 @@ Download MP3
         <title>All Purpose Machine</title>
         <link>http://seen-saw.com/podcast/allpurposemachine.html</link>
         <comments>http://seen-saw.com/podcast/allpurposemachine.html#comments</comments>
-        <pubDate>Wed, 02 May 2018 00:55:00 +0000</pubDate>
+        <pubDate>Tue, 01 May 2018 17:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1313,7 +1363,7 @@ Download MP3
         <title>Go West, Die Young</title>
         <link>http://seen-saw.com/podcast/go-west-die-young.html</link>
         <comments>http://seen-saw.com/podcast/go-west-die-young.html#comments</comments>
-        <pubDate>Wed, 25 Apr 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 25 Apr 2018 10:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1367,7 +1417,7 @@ Download MP3
         <title>Frankly, My Dear</title>
         <link>http://seen-saw.com/podcast/frankly-my-dear.html</link>
         <comments>http://seen-saw.com/podcast/frankly-my-dear.html#comments</comments>
-        <pubDate>Wed, 18 Apr 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 18 Apr 2018 10:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1413,7 +1463,7 @@ Download MP3
         <title>Colder Than Your Balcony</title>
         <link>http://seen-saw.com/podcast/colder-than-your-balcony.html</link>
         <comments>http://seen-saw.com/podcast/colder-than-your-balcony.html#comments</comments>
-        <pubDate>Wed, 11 Apr 2018 10:55:00 +0000</pubDate>
+        <pubDate>Wed, 11 Apr 2018 03:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1467,7 +1517,7 @@ Download MP3
         <title>Take Rest</title>
         <link>http://seen-saw.com/podcast/take-rest.html</link>
         <comments>http://seen-saw.com/podcast/take-rest.html#comments</comments>
-        <pubDate>Wed, 04 Apr 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 04 Apr 2018 10:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1513,7 +1563,7 @@ Download MP3
         <title>Ducks</title>
         <link>http://seen-saw.com/podcast/ducks.html</link>
         <comments>http://seen-saw.com/podcast/ducks.html#comments</comments>
-        <pubDate>Tue, 20 Mar 2018 10:55:00 +0000</pubDate>
+        <pubDate>Tue, 20 Mar 2018 03:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1563,7 +1613,7 @@ Download MP3
         <title>Beating, Beating, Beating</title>
         <link>http://seen-saw.com/podcast/beating-beating-beating.html</link>
         <comments>http://seen-saw.com/podcast/beating-beating-beating.html#comments</comments>
-        <pubDate>Wed, 14 Mar 2018 02:55:00 +0000</pubDate>
+        <pubDate>Tue, 13 Mar 2018 19:55:00 -0700</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1613,7 +1663,7 @@ Download MP3
         <title>Real Men Hunt in Packs</title>
         <link>http://seen-saw.com/podcast/real-men-hunt-in-packs.html</link>
         <comments>http://seen-saw.com/podcast/real-men-hunt-in-packs.html#comments</comments>
-        <pubDate>Wed, 07 Mar 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 07 Mar 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1663,7 +1713,7 @@ Download MP3
         <title>In the Words of Delaney Tarr  </title>
         <link>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html</link>
         <comments>http://seen-saw.com/podcast/in-the-words-of-delaney-tarr.html#comments</comments>
-        <pubDate>Tue, 27 Feb 2018 17:55:00 +0000</pubDate>
+        <pubDate>Tue, 27 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1709,7 +1759,7 @@ Download MP3
         <title>My Baby</title>
         <link>http://seen-saw.com/podcast/my-baby.html</link>
         <comments>http://seen-saw.com/podcast/my-baby.html#comments</comments>
-        <pubDate>Wed, 21 Feb 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 21 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1759,7 +1809,7 @@ Download MP3
         <title>Millennial Freelancer Blues</title>
         <link>http://seen-saw.com/podcast/millennial-freelancer-blues.html</link>
         <comments>http://seen-saw.com/podcast/millennial-freelancer-blues.html#comments</comments>
-        <pubDate>Wed, 14 Feb 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 14 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1805,7 +1855,7 @@ Download MP3
         <title>Who Loves You?</title>
         <link>http://seen-saw.com/podcast/who-loves-you.html</link>
         <comments>http://seen-saw.com/podcast/who-loves-you.html#comments</comments>
-        <pubDate>Wed, 07 Feb 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 07 Feb 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1855,7 +1905,7 @@ Download MP3
         <title>Rose</title>
         <link>http://seen-saw.com/podcast/rose.html</link>
         <comments>http://seen-saw.com/podcast/rose.html#comments</comments>
-        <pubDate>Wed, 31 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Wed, 31 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1909,7 +1959,7 @@ Download MP3
         <title>Hold Your Breath</title>
         <link>http://seen-saw.com/podcast/hold-your-breath.html</link>
         <comments>http://seen-saw.com/podcast/hold-your-breath.html#comments</comments>
-        <pubDate>Tue, 23 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Tue, 23 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -1955,7 +2005,7 @@ Download MP3
         <title>Shapeshifter</title>
         <link>http://seen-saw.com/podcast/shapeshifter.html</link>
         <comments>http://seen-saw.com/podcast/shapeshifter.html#comments</comments>
-        <pubDate>Mon, 15 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Mon, 15 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -2001,7 +2051,7 @@ Download MP3
         <title>Thanks (Cloud Cult cover)</title>
         <link>http://seen-saw.com/podcast/thanks.html</link>
         <comments>http://seen-saw.com/podcast/thanks.html#comments</comments>
-        <pubDate>Sun, 14 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Sun, 14 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -2047,7 +2097,7 @@ Download MP3
         <title>How Odd, How Suspect</title>
         <link>http://seen-saw.com/podcast/how-odd-how-suspect.html</link>
         <comments>http://seen-saw.com/podcast/how-odd-how-suspect.html#comments</comments>
-        <pubDate>Sun, 07 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Sun, 07 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
@@ -2093,7 +2143,7 @@ Download MP3
         <title>Let Me In</title>
         <link>http://seen-saw.com/podcast/let-me-in.html</link>
         <comments>http://seen-saw.com/podcast/let-me-in.html#comments</comments>
-        <pubDate>Mon, 01 Jan 2018 17:55:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 2018 09:55:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
         <category><![CDATA[podcast]]></category>
