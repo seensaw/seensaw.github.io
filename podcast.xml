@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 21 Nov 2018 17:01:51 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 22:49:18 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,9 +40,51 @@
     </itunes:category>
   
     <item>
+        <title>Conservatively Dressed</title>
+        <link>http://seen-saw.com/podcast/conservatively-dressed.html</link>
+        <comments>http://seen-saw.com/podcast/conservatively-dressed.html#comments</comments>
+        <pubDate>Wed, 28 Nov 2018 02:00:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/conservatively-dressed.html</guid>
+        <description>
+            <![CDATA[This was recorded on the top level of the Treasure Island parking garage. It’s my secret place (I guess not anymore) that I can go and yell at any time because the ambient noise is pretty high on the strip anyway and a guy yelling isn’t the weirdest thing happening....]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This was recorded on the top level of the Treasure Island parking garage. It’s my secret place (I guess not anymore) that I can go and yell at any time because the ambient noise is pretty high on the strip anyway and a guy yelling isn’t the weirdest thing happening.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week45_conversativelydressed.mp3" length="7537938" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This was recorded on the top level of the Treasure Island parking garage. It’s my secret place (I guess not anymore) that I can go and yell at any time because the ambient noise is pretty high on the strip anyway and a guy yelling isn’t the weirdest thing happening....]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This was recorded on the top level of the Treasure Island parking garage. It’s my secret place (I guess not anymore) that I can go and yell at any time because the ambient noise is pretty high on the strip anyway and a guy yelling isn’t the weirdest thing happening.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:08</itunes:duration>
+    </item>
+  
+    <item>
         <title>That One Where Seen/Saw Realizes that Absolutely Nothing Matters</title>
-        <link>http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters.html</link>
-        <comments>http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters.html#comments</comments>
+        <link>http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters-copy.html</link>
+        <comments>http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters-copy.html#comments</comments>
         <pubDate>Wed, 21 Nov 2018 02:00:00 -0800</pubDate>
         <dc:creator><![CDATA[]]></dc:creator>
     
@@ -51,7 +93,7 @@
     
         <category><![CDATA[noise]]></category>
     
-        <guid isPermaLink="true">http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters.html</guid>
+        <guid isPermaLink="true">http://seen-saw.com/podcast/seensaw-decides-that-nothing-matters-copy.html</guid>
         <description>
             <![CDATA[I decided to finger paint instead of use a brush. Sometimes, I don’t want to clean my workstation, so let’s just make it messier.
 
