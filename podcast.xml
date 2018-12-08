@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 28 Nov 2018 22:49:18 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 17:03:03 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Fanfare to a Perfect Set</title>
+        <link>http://seen-saw.com/podcast/fanfaretoaperfectset.html</link>
+        <comments>http://seen-saw.com/podcast/fanfaretoaperfectset.html#comments</comments>
+        <pubDate>Wed, 05 Dec 2018 02:00:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[punk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/fanfaretoaperfectset.html</guid>
+        <description>
+            <![CDATA[No such thing as a perfect sound, don’t worry yourself too much.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[No such thing as a perfect sound, don’t worry yourself too much.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week46_fanfaretoaperfectset.mp3" length="6241219" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[No such thing as a perfect sound, don’t worry yourself too much.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[No such thing as a perfect sound, don’t worry yourself too much.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:36</itunes:duration>
+    </item>
   
     <item>
         <title>Conservatively Dressed</title>
