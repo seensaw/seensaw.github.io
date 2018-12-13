@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Fri, 07 Dec 2018 17:03:03 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 20:24:09 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,60 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>Real People Jobs</title>
+        <link>http://seen-saw.com/podcast/realpeoplejobs.html</link>
+        <comments>http://seen-saw.com/podcast/realpeoplejobs.html#comments</comments>
+        <pubDate>Wed, 12 Dec 2018 02:00:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/realpeoplejobs.html</guid>
+        <description>
+            <![CDATA[So, I’ve spent a lot of my time this year writing about work. Working too much, finding too little time for myself; all sorts of navel-gazing shit and it’s not cute. It can be cute if done well, but that’s rare.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[So, I’ve spent a lot of my time this year writing about work. Working too much, finding too little time for myself; all sorts of navel-gazing shit and it’s not cute. It can be cute if done well, but that’s rare.
+
+So, mark this as the last one for a while. I’m making a pact to stop because I’ve done enough of that for a while.
+
+Thanks for coming to my TED Talk.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week47_realpeoplejobs.mp3" length="5645627" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[So, I’ve spent a lot of my time this year writing about work. Working too much, finding too little time for myself; all sorts of navel-gazing shit and it’s not cute. It can be cute if done well, but that’s rare.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[So, I’ve spent a lot of my time this year writing about work. Working too much, finding too little time for myself; all sorts of navel-gazing shit and it’s not cute. It can be cute if done well, but that’s rare.
+
+So, mark this as the last one for a while. I’m making a pact to stop because I’ve done enough of that for a while.
+
+Thanks for coming to my TED Talk.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:21</itunes:duration>
+    </item>
   
     <item>
         <title>Fanfare to a Perfect Set</title>

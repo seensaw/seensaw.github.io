@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://seen-saw.com//podcast/realpeoplejobs.html</loc>
+      
+        <lastmod>2018-12-12T02:00:00-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://seen-saw.com//podcast/fanfaretoaperfectset.html</loc>
       
         <lastmod>2018-12-05T02:00:00-08:00</lastmod>
@@ -726,7 +741,7 @@
     <url>
       <loc>http://seen-saw.com//</loc>
       
-        <lastmod>2018-12-07T17:03:03-08:00</lastmod>
+        <lastmod>2018-12-12T20:24:09-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -741,7 +756,7 @@
     <url>
       <loc>http://seen-saw.com//opensource.html</loc>
       
-        <lastmod>2018-12-07T17:03:03-08:00</lastmod>
+        <lastmod>2018-12-12T20:24:09-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -756,7 +771,7 @@
     <url>
       <loc>http://seen-saw.com//podcast.xml</loc>
       
-        <lastmod>2018-12-07T17:03:03-08:00</lastmod>
+        <lastmod>2018-12-12T20:24:09-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
