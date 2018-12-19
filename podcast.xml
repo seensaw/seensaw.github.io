@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Wed, 12 Dec 2018 20:24:09 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 18:50:56 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,52 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>An Upbeat Afterlife</title>
+        <link>http://seen-saw.com/podcast/unupbeatafterlife.html</link>
+        <comments>http://seen-saw.com/podcast/unupbeatafterlife.html#comments</comments>
+        <pubDate>Tue, 18 Dec 2018 02:00:00 -0800</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/unupbeatafterlife.html</guid>
+        <description>
+            <![CDATA[This song happened twice. It was posted as week 21 – “A Happy Afterlife” – but I never loved it. Here’s another, totally different version that feels less smaltzy.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[This song happened twice. It was posted as week 21 – “A Happy Afterlife” – but I never loved it. Here’s another, totally different version that feels less smaltzy.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week48_anupbeatafterlife.mp3" length="6479456" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[This song happened twice. It was posted as week 21 – “A Happy Afterlife” – but I never loved it. Here’s another, totally different version that feels less smaltzy.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[This song happened twice. It was posted as week 21 – “A Happy Afterlife” – but I never loved it. Here’s another, totally different version that feels less smaltzy.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>2:41</itunes:duration>
+    </item>
   
     <item>
         <title>Real People Jobs</title>
