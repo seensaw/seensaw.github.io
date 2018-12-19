@@ -1,0 +1,270 @@
+
+body {
+  height: 100%;
+  font-size: 16px;
+  font-family: "Silkscreen";
+  color: $black;
+  background: {
+    image: url('../images/bg.png');
+    repeat: repeat;
+    attachment: fixed;
+  }
+}
+
+.wrap {
+  max-width: 64em;
+  padding: 2em 3em 2em 2em;
+  margin: 0 auto;
+  @include tablet {
+    padding: 2em 2em 0 1em;
+  }
+}
+
+.box {
+  border: 6px solid $blue;
+  background: rgba(255,255,255,.4);
+  box-shadow: .75em .75em 0px 0em $blue;
+  padding: 1em;
+  margin-bottom: 2em;
+  &__filter {
+    @include tablet {
+      display: none;
+    }
+  }
+  &__heading {
+    border-bottom: 6px solid $blue;
+    color:$blue;
+    font-size: 1.25em;
+    line-height: 2em;
+    text-align: center;
+    @include desktop {
+      font-size: 1em;
+    }
+  }
+  &--noPadding {
+    padding:0;
+  }
+  p {
+    font-size: 1.25em;
+    color: $blue;
+    @include tablet {
+      font-size: .8em;
+      line-height: 1.5em;
+    }
+    span {
+      color: $purple;
+    }
+  }
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  &__wrap {
+    margin: 3em 2em;
+    @include desktop {
+      margin: 2em 2em;
+    }
+    @include tablet {
+      margin: 1em 1em;
+    }
+
+  }
+}
+
+.icon {
+  margin: .25em;
+  &__close {
+    width: 1em;
+    height: 1em;
+    float:left;
+    cursor: pointer;
+    background: {
+      size: contain;
+      image: url('../images/icon-close.svg')
+    }
+    @include tablet {
+      float: none;
+      margin: .5em auto;
+      display: none;
+    }
+  }
+  & + p {
+    margin-left: 2rem;
+    position: relative;
+    @include tablet {
+      margin: auto;
+    }
+  }
+}
+
+.split {
+  display: flex;
+  justify-content: space-between;
+  @include tablet {
+    flex-direction: column-reverse;
+  }
+  &__wrap {
+    &__sticky {
+      top:2em;
+      right:0;
+      @include tablet {
+        top:0;
+      }
+    }
+  }
+  &__left {
+    width: 65%;
+    @include tablet {
+      width: 100%;
+    }
+  }
+  &__right {
+    width: 30%;
+    @include tablet {
+      width: 100%;
+    }
+  }
+}
+
+.article {
+  h2 {
+    color: $blue;
+    font-size: 3em;
+    @include desktop {
+      font-size: 2em;
+    }
+    @include tablet {
+      font-size: 1.5em;
+    }
+  }
+  h3 {
+    color: $purple;
+    font-size: 1em;
+    margin-top: -.1em;
+    @include tablet {
+      font-size: .85em;
+    }
+    span {
+      text-align:right;
+    }
+  }
+  p {
+    font-family: "Minecraftia";
+    text-indent: 4em;
+    font-size: .85em;
+    line-height: 2.5em;
+    color:$black;
+    &:first-of-type {
+      margin-top:1em;
+      text-indent: 0;
+    }
+    @include tablet {
+      font-size: .75em;
+      line-height: 2.5em;
+    }
+  }
+  .download {
+    display: block;
+    font-size: .75em;
+    line-height: .75em;
+    text-align: right;
+    color: $purple;
+    margin-top:1em;
+    cursor: pointer;
+  }
+}
+
+.list {
+  padding: 1em;
+  &__item {
+    margin-bottom: .5em;
+    position: relative;
+    display: block;
+    cursor: pointer;
+    &:before {
+      content:"";
+      float:left;
+      margin-right: .5em;
+      width: .75em;
+      height:.75em;
+      border: 2px solid $blue;
+    }
+    &__social {
+      &:hover {
+        &:before {
+          background-color: $purple;
+          border-color: $purple;
+        }
+      }
+      &:before {
+        background: {
+          color: $blue;
+          size: 70% auto;
+          repeat: no-repeat;
+          position: center center;
+        }
+      }
+      &--fb:before {
+        background-size: auto 70%;
+        background-image: url('../images/icon-fb.svg')
+      }
+      &--insta:before {
+        background-image: url('../images/icon-insta.svg')
+      }
+      &--twitter:before {
+        background-image: url('../images/icon-twitter.svg')
+      }
+      &--rss:before {
+        background-image: url('../images/icon-rss.svg')
+      }
+    }
+    span {
+      line-height: 1em;
+      color:$blue;
+    }
+    &:hover {
+      span {
+        color: $purple;
+      }
+      &:before {
+        border-color: $purple;
+      }
+    }
+    &.active {
+      &:before {
+        background: {
+          image: url('../images/icon-heart.svg');
+          size: 85% auto;
+          repeat: no-repeat;
+          position: 50% 50%;
+        }
+        border-color: $purple;
+      }
+      span {
+        color: $purple;
+      }
+    }
+  }
+}
+
+footer.box {
+  p {
+    font-size: .75em;
+    line-height: 1.25em;
+    text-align: center;
+    margin-bottom: .5em;
+    &:last-child {
+      margin-bottom:0;
+    }
+    a {
+      color: $purple;
+    }
+  }
+}
+
+.filter {
+  color: $blue;
+  line-height: 2em;
+  text-align: center;
+}
