@@ -14,7 +14,7 @@
     <atom:link href="http://seen-saw.com/podcast-mp3.xml" rel="self" type="application/rss+xml" />
     <link>http://seen-saw.com</link>
     <description>Musician Logan Sorese is terrified of the infinite facelessness of the internet, so in order to face his fear, he's releasing a song weekly (sometimes bi-weekly) during 2018.</description>
-    <lastBuildDate>Tue, 25 Dec 2018 11:29:45 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 21:04:02 -0800</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,56 @@
         <itunes:category text="Music" />
         <itunes:category text="Music" />
     </itunes:category>
+  
+    <item>
+        <title>The End</title>
+        <link>http://seen-saw.com/podcast/the-end.html</link>
+        <comments>http://seen-saw.com/podcast/the-end.html#comments</comments>
+        <pubDate>Sun, 30 Dec 2018 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[]]></dc:creator>
+    
+        <category><![CDATA[podcast]]></category>
+    
+    
+        <category><![CDATA[folk]]></category>
+    
+        <guid isPermaLink="true">http://seen-saw.com/podcast/the-end.html</guid>
+        <description>
+            <![CDATA[So, we’re done here. 50 songs, 1 year. That’s pretty shocking, but I learned a lot.
+
+]]>
+        </description>
+        <content:encoded>
+            <![CDATA[So, we’re done here. 50 songs, 1 year. That’s pretty shocking, but I learned a lot.
+
+Cheers to 2019, I guess. There’s more in store.
+
+
+    
+
+Download MP3
+
+]]>
+        </content:encoded>
+        <enclosure url="http://seen-saw.com/audio/week50_theend.mp3" length="8443864" type="audio/mpeg" />
+        <itunes:subtitle><![CDATA[So, we’re done here. 50 songs, 1 year. That’s pretty shocking, but I learned a lot.
+
+]]></itunes:subtitle>
+        <itunes:summary><![CDATA[So, we’re done here. 50 songs, 1 year. That’s pretty shocking, but I learned a lot.
+
+Cheers to 2019, I guess. There’s more in store.
+
+
+    
+
+Download MP3
+
+]]></itunes:summary>
+        <itunes:author>Logan Sorese</itunes:author>
+        <itunes:image href="http://seen-saw.com/assets/images/logo.jpg" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>3:31</itunes:duration>
+    </item>
   
     <item>
         <title>Christmas Shoes</title>
